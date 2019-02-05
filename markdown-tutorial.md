@@ -9,3 +9,5 @@ Hello this is normal text.
 > Here is a quote!
 
 [here is a url](www.google.com)
+
+#### Text in bold
