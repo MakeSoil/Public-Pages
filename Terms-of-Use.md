@@ -8,9 +8,11 @@ By accessing or using the Service you agree to be bound by these Terms. And by a
 
 ## Communications
 
+
 By creating an Account on our service, you agree to subscribe to newsletters, marketing or promotional materials and other information we may send. However, you may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
 ## Purchases
+
 
 If you wish to purchase any product or service made available through the Service ("Purchase"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your billing address, and your shipping information.
 
@@ -24,11 +26,13 @@ We reserve the right to refuse or cancel your order if fraud or an unauthorized 
 
 ## Availability, Errors and Inaccuracies
 
+
 We are constantly updating product and service offerings on the Service. We may experience delays in updating information on the Service and in our advertising on other web sites. The information found on the Service may contain errors or inaccuracies and may not be complete or current. Products or services may be mispriced, described inaccurately, or unavailable on the Service and we cannot guarantee the accuracy or completeness of any information found on the Service.
 
 We therefore reserve the right to change or update information and to correct errors, inaccuracies, or omissions at any time without prior notice.
 
 ## Subscriptions
+
 
 Some parts of the Service may be billed on a subscription basis ("Subscription(s)"). You may be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles may be set on a monthly basis.
 
@@ -40,6 +44,7 @@ Should automatic billing fail to occur for any reason, MakeSoil may issue an ele
 
 ## Price and Fee Changes
 
+
 MakeSoil, in its sole discretion and at any time in any manner, may adjust or introduce new fees or pricing for any element of our Service. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
 
 MakeSoil would provide you with a reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
@@ -48,9 +53,11 @@ Your continued use of the Service after the Subscription fee change comes into e
 
 ## Refunds
 
+
 Except when required by law, paid Subscription fees are non-refundable.
 
 ## Content
+
 
 Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are responsible for the Content that you post on or through the Service, including its legality, reliability, and appropriateness.
 
@@ -64,6 +71,7 @@ In addition, Content found on or through this Service are the property of MakeSo
 
 ## Accounts
 
+
 When you create an account with us, you guarantee that you are above the age of 18, and that the information you provide us is accurate, complete, and current at all times. Inaccurate, incomplete, or obsolete information may result in the immediate termination of your account on the Service.
 
 You are responsible for maintaining the confidentiality of your account and password, including but not limited to the restriction of access to your computer and/or account. You agree to accept responsibility for any and all activities or actions that occur under your account and/or password, whether your password is with our Service or a third-party service.
@@ -76,11 +84,13 @@ We reserve the right to refuse service, terminate accounts, remove or edit conte
 
 ## Intellectual Property
 
+
 The Service and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of MakeSoil and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of MakeSoil.
 
 Since our incorporation on 9th March 2018, MakeSoil has claimed a common law trademark over our logo, the name ‘MakeSoil™’ and the term ‘Soil Maker™’. This gives us legal protection should another individual or organisation, whether in the United States or elsewhere, imitate our logo, name or the term 'Soil Maker' without our prior written consent.
 
 ## Links To Other Websites
+
 
 Our Service may contain links to third party web sites or services that are not owned or controlled by MakeSoil
 
@@ -92,6 +102,7 @@ We strongly advise you to read the terms and conditions and privacy policies of 
 
 ## Termination
 
+
 We may terminate or suspend your account and/or any Soil Sites created or managed by you, and bar access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
 
 If you wish to terminate your account, you may simply discontinue using the Service.
@@ -99,6 +110,7 @@ If you wish to terminate your account, you may simply discontinue using the Serv
 All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
  
 ## Interactions With Other Users
+ 
  
 You Have Sole Responsibility When Interacting with Other Users. Our Service provide a platform for users to connect with one another, in order to make soil together at Soil Sites.
 MakeSoil is not a party to, has no involvement or interest in, makes no representations or warranties as to, and has no responsibility or liability with respect to any communications, transactions, interactions, disputes or any relations whatsoever between you and any other user, person or organization. You are solely responsible for your interactions with other users of our Service. We reserve the right, but have no obligation, to monitor interactions between you and other users of our Service.
@@ -112,6 +124,7 @@ MakeSoil users may organize in-person meetings and host events for other MakeSoi
 Because our Service is merely a platform, in the event that you have a dispute with one or more users, to the fullest extent permitted by applicable law you release us (and our officers, directors, members, employees, agents and affiliates) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such disputes. If you are a California resident, you waive California Civil Code 1542, which says: “A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor.”
  
 ## User Conduct
+ 
  
 By accessing or using the Service, you agree to act responsibly and exercise good judgment. In addition, you agree not to:
  
@@ -128,13 +141,16 @@ By accessing or using the Service, you agree to act responsibly and exercise goo
  
 ## Reporting Misconduct
  
+ 
 If you interact with anyone through our Service who you feel is acting or has acted inappropriately, including but not limited to offensive, violent or sexually inappropriate behavior, who steals from you or engages in any other disturbing conduct, we strongly encourage you to immediately report such person to the appropriate authorities and to us by contacting us. Please note that although we encourage you to report misconduct, we are not responsible or liable for our users’ actions, and we are not obligated to take any action.
 
 ## Indemnification
 
+
 You agree to defend, indemnify and hold harmless MakeSoil and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Service, by you or any person using your account and password; b) a breach of these Terms, c) your violation of any rights of another, d) your conduct in connection with the Service, or e) Content posted on the Service. Further, if you are using the Services on behalf of any entity, you represent and warrant that such entity agrees to indemnify you and MakeSoil for violations of these Terms in accordance with this Section..
 
 ## Limitation Of Liability
+
 
 In no event shall MakeSoil, nor its directors, employees, contractors, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
 
@@ -142,15 +158,18 @@ The above limitation of liability shall also extend to any ‘offline’ interac
 
 ## Disclaimer
 
+
 Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
 
 MakeSoil its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
 
 ## Exclusions
 
+
 Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you.
 
 ## Governing Law
+
 
 These Terms shall be governed and construed in accordance with the laws of the State of Washington and the United States of America, without regard to its conflict of law provisions.
 
@@ -162,10 +181,12 @@ Our failure to enforce any right or provision of these Terms will not be conside
 
 ## Changes
 
+
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 
 By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
 
 ## Contact Us
+
 
 If you have any questions about these Terms, please contact us.
