@@ -52,7 +52,7 @@ While you’re just getting started, you can also set your Soil Site as ‘Priva
 
 There are lots of places where soil can be made, even in a dense city. Even if you don’t own any land or property yourself, you may just need to be resourceful. After all, as you can see from the image of an urban Soil Site below, it doesn’t take much space to make soil. Could you get access to your neighbor’s yard, or a spare patch of nearby community land - perhaps some land that belongs to a church or local business?
 
-[Image Josh Bin]
+![alt text](https://github.com/MakeSoil/public-pages/blob/master/Josh%20Bin.jpg)
 
 # What if I travel a lot. Can I still be a Soil Maker?
 
