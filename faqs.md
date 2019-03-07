@@ -1,7 +1,6 @@
 # What is MakeSoil?
 
-MakeSoil is an online platform powering a global movement to make soil together on a planet-saving scale.
-MakeSoil is a global movement and online platform helping communities to make soil together on a planet-saving scale. Redefining composting as making soil, Soil Makers can easily and safely post their Soil Sites to our online map, and invite their neighbors and friends to contribute their food and yard scraps. Anyone, anywhere in the world, can use MakeSoil to find Soil Makers near them or start a Soil Site themselves. Together, we can reduce food waste, restore nutrients to our food, capture carbon in the ground, and beautify our neighborhoods.
+MakeSoil is an online platform powering a global movement to make soil together on a planet-saving scale. Redefining composting as making soil, Soil Makers can easily and safely post their Soil Sites to our online map, and invite their neighbors and friends to contribute their food and yard scraps. Anyone, anywhere in the world, can use MakeSoil to find Soil Makers near them or start a Soil Site themselves. Together, we can reduce food waste, restore nutrients to our food, capture carbon in the ground, and beautify our neighborhoods.
 
 MakeSoil is a Nonprofit Organization. We re-invest any surplus funds back into our mission.
 
@@ -13,7 +12,7 @@ Healthy soil has become rare and valuable in today’s world. By making soil tog
 
 #### Transform Your Understanding
 
-Watching our food and yard scraps turn back into living soil (instead of just throwing them in the trash), completes an essential feedback loop which transforms our understanding and relationship with our surroundings. Not only does this boost our personal sense of wellbeing, but we also begin to realise more fully how our current system works as a whole, and the role we play in this system as individuals.
+Watching our food and yard scraps turn back into living soil (instead of just throwing them in the trash), completes an essential feedback loop which transforms our understanding and relationship with our surroundings. Not only does this boost our personal sense of wellbeing, but we also begin to realize more fully how our current system works as a whole, and the role we play in this system as individuals.
 
 #### Regenerate The Planet
 
@@ -21,11 +20,11 @@ We need to start regenerating the planet, rather than simply consuming it as a r
 
 # Why make soil, when I already have a municipal compost pick-up service?
 
-Watching your food waste turn back into living soil completes an essential feedback loop which suddenly transforms your understanding and relationship with your surroundings. When somebody else takes away your food waste and deals with it for you out of sight, you miss out on this transformative experience that can only come through completing such feedback loops.
+Watching your food waste turn back into living soil completes an essential feedback loop which suddenly transforms your understanding and relationship with the environment. When somebody else takes away your food waste and deals with it for you out of sight, you miss out on this transformative experience that can only come through completing such feedback loops.
 
-We live today in a box and bin culture. We click a button on the internet, a box arrives on our doorstep, we play with it for a while or it breaks, and then we throw it in a bin and someone takes it away. This keeps us from understanding the system we live in as a whole. MakeSoil is founded on the insight that it’s only by witnessing and fully participating - from start to finish - in regenerative acts like soil-making, that we can begin to truly recognise how our system works, and the role we play in this system as individuals.
+We live today in a box and bin culture. We click a button on the internet, a box arrives on our doorstep, we play with it for a while or it breaks, and then we throw it in a bin and someone takes it away. This keeps us from understanding the system we live in as a whole. MakeSoil is founded on the insight that it’s only by witnessing and fully participating - from start to finish - in regenerative acts like soil-making, that we can begin to truly recognize how our system works, and the role we play in this system as individuals.
 
-Turning your food waste into soil yourself in your backyard, or with your neighbors locally, is also more energy-efficient. Municipal pick-up services are industrial operations that use big trucks to haul the materials over to the nearest processing facility, where then yet more heavy machinery is used to turn the piles. And given that most of the food waste being picked up is, in terms of mass, actually water, this all uses up far more energy than dealing with your own food waste in your neighbourhood.
+Turning your food waste into soil yourself in your backyard, or with your neighbors locally, is also more energy-efficient. Municipal pick-up services are industrial operations that use big trucks to haul the materials over to the nearest processing facility, where then yet more heavy machinery is used to turn the piles. And given that most of the food waste being picked up is, in terms of mass, actually water, this all uses up far more energy than dealing with your own food waste in your neighborhood.
 
 Finally, municipal pick-up programs are not free — citizens pay for them in taxes and fees. If instead we step into our role as Soil Makers and make soil together in our own neighborhoods, we can save that money and even generate income. We can take what is a municipal obligation, and turn it into home-based jobs for thousands of people.
 
@@ -45,7 +44,7 @@ A Soil Supporter is someone who contributes their food and yard scraps to a Soil
 
 Yes, absolutely. Remember that making soil - although essentially a very simple process - is a skill that very few people have so far developed. And since it’s so important for creating healthier, cohesive and resilient neighborhoods, there’s no better time than now to start learning.
 
-You might want to let people know in the description of your Soil Site that you’re a novice and would love some help learning how to make soil. You’ll be surprised how happy people will be to help share their experience and expertise with you. And MakeSoil will also soon be providing educational resources and support to all of our brave new Soil Makers joining the movement.
+You might want to let people know in the description of your Soil Site that you’re a novice and would love some help learning how to make soil. You’ll be surprised how happy people will be to help share their experience and expertise with you. And MakeSoil is also developing educational resources and support to all of our brave new Soil Makers joining the movement.
 
 While you’re just getting started, you can also set your Soil Site as ‘Private’ - meaning Soil Supporters won’t start bringing their scraps to you until you approve them as participants. And you can set a limit to the number of Soil Supporters you accept (it could be as low as 1 or 2), so your Soil Site won’t get overwhelmed while you are still developing your soil-making skills.
 
