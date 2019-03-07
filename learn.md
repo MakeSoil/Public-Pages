@@ -1,6 +1,6 @@
 # How can I make soil?
 
-There are many different ways to make soil. However, we consider the thermophilic, microbial soil-making process - commonly referred to as ‘hot’ composting - to be the most versatile and robust. In this process, the Soil Site could ideally reach temperatures of around 130°F (54°C), supporting many different microbes as they voraciously chew and digest the materials in a Soil Site, which is what ultimately turns those materials into what we recognise as soil. 
+There are many different ways to make soil. However, we consider the thermophilic, microbial soil-making process - commonly referred to as ‘hot’ composting - to be the most versatile and robust. In this process, the Soil Site could ideally reach temperatures of around 130°F (54°C), supporting many different microbes as they voraciously chew and digest the materials in a Soil Site, which is what ultimately turns those materials into what we recognize as soil. 
 
 This ‘hot’ process is able to handle most typical household waste, as well as a diversity of inputs from neighbors and the surrounding community e.g. coffee shops, restaurants, workplaces etc.
 
