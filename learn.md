@@ -38,11 +38,11 @@ This depends what pests you have to guard against.
 
 If you have no pests, then you don’t strictly need any special equipment. You could just mound up your scraps into a pile. However, you’ll need to keep your pile mounded, so you may soon find that a bin would be useful. With no pests, a simple bin made from wooden pallets and some chicken wire is perfectly fine (see photo below). If you have raccoons, you might need a closed container that can only be opened by a human.
 
-[Image Josh Bin]
+![alt text](https://github.com/MakeSoil/public-pages/blob/master/Josh%20Bin.jpg)
 
 We have also designed our own ‘ultimate soil-making bin’ (see photo below) which will cover all your bases. If you are interested in getting one, please contact us.
 
-[Image New Bin]
+![alt text](https://github.com/MakeSoil/public-pages/blob/master/New%20Bin.JPG)
 
 # Should the Soil Bin get lots of sun?
 
