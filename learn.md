@@ -26,6 +26,20 @@ If the Soil Site remains too dry, either add more moist, high-nitrogen scraps (e
 
 One last point to consider is that you can’t make soil in a coffee cup! For a hot process, there needs to be a sufficient thermal mass - ensure your Soil Site is at least a few feet in diameter.
 
+# What materials CAN I make soil out of?
+
+Essentially, you can make soil out of almost anything except metal, plastic or glass. However, different Soil Makers will likely have personal preferences and may not accept certain materials.
+
+# Why do some Soil Makers NOT accept certain compostable materials?
+
+Some Soil Makers don’t accept meat, grease, dairy, bones, cooked food, bread, pasta etc. With a high level of skill you can make soil out of any of these materials without any problems. However, it requires a Soil Maker who can achieve high temperatures with their Soil Site, or else these materials may smell unpleasant or attract pests.
+
+Some Soil Makers don’t accept citrus, onions or garlic. This is only a problem if a Soil Site is using worms to digest the materials in their Soil Site instead of a thermophilic (hot) process.
+
+Many Soil Makers don’t accept glossy paper e.g. junk mail because they take a long time to break down and may contain metals or chemicals used in printing or laminating. For similar reasons, many Soil Makers don’t accept non-organic (conventionally grown) food-waste or commercial cigarette butts.
+
+Many Soil Makers don’t accept human waste or pet waste, because they may contain parasites or diseases that cannot be reliably avoided except with the highest level of soil-making skill.
+
 # How long will it take to make soil?
 
 It will probably take at least 8 weeks before you have harvested your first batch of soil, although it’s possible you could do it in as little as 5 weeks.
@@ -44,6 +58,24 @@ We have also designed our own ‘ultimate soil-making bin’ (see photo below) w
 
 ![alt text](https://github.com/MakeSoil/public-pages/blob/master/New%20Bin.JPG)
 
+# Will my Soil Site smell bad?
+
+Only if something is wrong. Maybe there’s too much nitrogen, not enough airflow, or it’s too wet. However, a well-managed Soil Site should never smell bad.
+
+# Will my Soil Site attract pests e.g. rats?
+
+Possibly. Especially if your site is not getting hot enough. When it’s hot, the materials are turning into soil too fast to attract pests, who will find it too uncomfortable to dig around in there anyway.
+
+You can also protect against pests by burying your freshest scraps in the middle of your site, covering your site with a ‘carbon seal’ (e.g. soil and dry leaves), and making your bin secure.
+
+# How can I get more materials being contributed to my Soil Site?
+
+The most direct way is to go door-to-door in your neighbourhood and ask people to become Soil Supporters to your site, contributing their leftovers and scraps. Coffee shops are usually happy to share their leftover coffee grounds with customers at the end of the day. Carpenters and mills generally have lots of sawdust to spare. And breweries tend to yield lots of organic waste too. 
+
+# When can I add more materials to my heap?
+
+For hot composting, when you stop adding materials, the pile will cool down. So to keep the hot process going, the best way is to keep adding materials. Then you can also keep harvesting the finished soil continuously too.
+
 # Should the Soil Bin get lots of sun?
 
 Full sun can help the bin contents warm up in wintery places that get down to freezing. Otherwise full sun may dry out the contents and shorten the life of the bin.
@@ -56,40 +88,8 @@ It’s good to have the bin’s contents in touch with the ground. It’s also n
 
 Crushed shells, brick, or gravel under the wooden boards that may make up a wooden bin’s base would be ideal, with bare ground in the middle so the bin’s contents can touch the earth.
 
-# Will my Soil Site smell bad?
-
-Only if something is wrong. Maybe there’s too much nitrogen, not enough airflow, or it’s too wet. However, a well-managed Soil Site should never smell bad.
-
-# Will my Soil Site attract pests e.g. rats?
-
-Possibly. Especially if your site is not getting hot enough. When it’s hot, the materials are turning into soil too fast to attract pests, who will find it too uncomfortable to dig around in there anyway.
-
-You can also protect against pests by burying your freshest scraps in the middle of your site, covering your site with a ‘carbon seal’ (e.g. soil and dry leaves), and making your bin secure.
-
-# What materials CAN I make soil out of?
-
-Essentially, you can make soil out of almost anything except metal, plastic or glass. However, different Soil Makers will likely have personal preferences and may not accept certain materials.
-
-# Why do some Soil Makers NOT accept certain compostable materials?
-
-Some Soil Makers don’t accept meat, grease, dairy, bones, cooked food, bread, pasta etc. With a high level of skill you can make soil out of any of these materials without any problems. However, it requires a Soil Maker who can achieve high temperatures with their Soil Site, or else these materials may smell unpleasant or attract pests.
-
-Some Soil Makers don’t accept citrus, onions or garlic. This is only a problem if a Soil Site is using worms to digest the materials in their Soil Site instead of a thermophilic (hot) process.
-
-Many Soil Makers don’t accept glossy paper e.g. junk mail because they take a long time to break down and may contain metals or chemicals used in printing or laminating. For similar reasons, many Soil Makers don’t accept non-organic (conventionally grown) food-waste or commercial cigarette butts.
-
-Many Soil Makers don’t accept human waste or pet waste, because they may contain parasites or diseases that cannot be reliably avoided except with the highest level of soil-making skill.
-
-# How can I get more materials being contributed to my Soil Site?
-
-The most direct way is to go door-to-door in your neighbourhood and ask people to become Soil Supporters to your site, contributing their leftovers and scraps. Coffee shops are usually happy to share their leftover coffee grounds with customers at the end of the day. Carpenters and mills generally have lots of sawdust to spare. And breweries tend to yield lots of organic waste too. 
-
 # How should I store my food scraps before taking them to a Soil Site?
 
 Many people put their scraps in an air-tight, sealable container because they are worried about the scraps smelling bad. However, this actually makes the smell worse! Remember, when it comes to making soil (and storing scraps), the more airflow the better. If you have good airflow, the scraps can even go several days without smelling and will in fact soon begin to dry up a bit.
 
 However, the scraps can attract small flies and so if you use an open container, it’s good to cover it with a breathable material (e.g. cheesecloth or a cotton/linen dishcloth). Alternatively, you can always keep your container in the refrigerator, or the freezer, depending on how long you need to wait before eventually taking your scraps to a Soil Site.
-
-# When can I add more materials to my heap?
-
-For hot composting, when you stop adding materials, the pile will cool down. So to keep the hot process going, the best way is to keep adding materials. Then you can also keep harvesting the finished soil continuously too.
