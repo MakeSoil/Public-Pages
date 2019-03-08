@@ -6,6 +6,10 @@ MakeSoil is a Nonprofit Organization. We re-invest any surplus funds back into o
 
 # Why make soil?
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=k0x8JDKns5c
+" target="_blank"><img src="http://img.youtube.com/vi/k0x8JDKns5c/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="600" height="450" border="10" /></a>
+
 #### Build Resilient Communities
 
 Healthy soil has become rare and valuable in today’s world. By making soil together ourselves, out of the food and yard scraps in our own neighborhoods, we can save money and even generate new income and jobs. We can also use this soil to grow our own healthy food, becoming more self-sufficient and less reliant on the fragile industrial food system.
