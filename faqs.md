@@ -6,9 +6,7 @@ MakeSoil is a Nonprofit Organization. We re-invest any surplus funds back into o
 
 # Why make soil?
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=k0x8JDKns5c
-" target="_blank"><img src="http://img.youtube.com/vi/k0x8JDKns5c/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="600" height="450" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k0x8JDKns5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Build Resilient Communities
 
@@ -56,7 +54,7 @@ While you’re just getting started, you can also set your Soil Site as ‘Priva
 
 There are lots of places where soil can be made, even in a dense city. Even if you don’t own any land or property yourself, you may just need to be resourceful. After all, as you can see from the image of an urban Soil Site below, it doesn’t take much space to make soil. Could you get access to your neighbor’s yard, or a spare patch of nearby community land - perhaps some land that belongs to a church or local business?
 
-![alt text](https://github.com/MakeSoil/public-pages/blob/master/Josh%20Bin.jpg)
+![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/Josh%20Bin.jpg)
 
 # What if I travel a lot. Can I still be a Soil Maker?
 
