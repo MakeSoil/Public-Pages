@@ -6,9 +6,7 @@ This ‘hot’ process is able to handle most typical household waste, as well a
 
 Then there are 4 general principles to keep in mind when making soil:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=yuomHS3OMyo
-" target="_blank"><img src="http://img.youtube.com/vi/yuomHS3OMyo/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="600" height="450" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yuomHS3OMyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 1) The Carbon to Nitrogen ratio
 
@@ -56,13 +54,11 @@ This depends what pests you have to guard against.
 
 If you have no pests, then you don’t strictly need any special equipment. You could just mound up your scraps into a pile. However, you’ll need to keep your pile mounded, so you may soon find that a bin would be useful. With no pests, a simple bin made from wooden pallets and some chicken wire is perfectly fine (see photo below). If you have raccoons, you might need a closed container that can only be opened by a human.
 
-![alt text](https://github.com/MakeSoil/public-pages/blob/master/Josh%20Bin.jpg)
+![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/Josh%20Bin.jpg)
 
 We have also designed our own ‘ultimate soil-making bin’ (watch video below) which will cover all your bases. If you are interested in getting one, please contact us.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=CqC-7GKg0gw
-" target="_blank"><img src="http://img.youtube.com/vi/CqC-7GKg0gw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="600" height="450" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CqC-7GKg0gw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Will my Soil Site smell bad?
 
