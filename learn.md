@@ -6,7 +6,9 @@ This ‘hot’ process is able to handle most typical household waste, as well a
 
 Then there are 4 general principles to keep in mind when making soil:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yuomHS3OMyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/yuomHS3OMyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 #### 1) The Carbon to Nitrogen ratio
 
@@ -58,7 +60,9 @@ If you have no pests, then you don’t strictly need any special equipment. You 
 
 We have also designed our own ‘ultimate soil-making bin’ (watch video below) which will cover all your bases. If you are interested in getting one, please contact us.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CqC-7GKg0gw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/CqC-7GKg0gw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # Will my Soil Site smell bad?
 
