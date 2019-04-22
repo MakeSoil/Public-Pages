@@ -9,7 +9,6 @@ Thank you for being a part of MakeSoil!
 
 <div style="text-align: center;">
   <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="685px" width="100%" style="max-width:500px; min-width:310px; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
-
   <a class="donate-with-crypto"
      href="https://commerce.coinbase.com/checkout/baf9ce19-918b-4b47-ae0d-aec51091d202">
     <span>Donate with Crypto</span>
