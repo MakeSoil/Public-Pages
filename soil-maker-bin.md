@@ -6,3 +6,10 @@ There are many commercially available "composters", or soil-making solutions, av
 MakeSoil has developed a Soil Maker Bin that takes the best knowledge we have about making soil and combines it with clever features so that anyone with a little bit of space can start making soil in their own home. 
 
 The MakeSoil Soil Maker Bin design is free-to-use for personal use, and requires a $20 USD donation if you'd like to use the designs to sell bins.
+
+
+# Where to purchase
+# US - National
+
+## Florida
+* James - contact info
