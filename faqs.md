@@ -38,7 +38,9 @@ A Soil Maker is someone who knows how to turn scraps and leftovers into soil - o
 
 # What is a Soil Site?
 
-A Soil Site is a place where food and yard scraps from you and your neighbors are turned into soil by a Soil Maker.
+A soil site is a physical place where people come together to turn their food scraps into soil. Soil sites can be hosted by anyone who knows how or is learning how to make soil. All that is needed is a soil-making bin, located in a backyard (or front-yard), or place of worship or place of work, which is then registered here at MakeSoil.org.
+
+MakeSoil then makes it safe and easy to invite neighbors and friends to bring their food scraps, and to collaborate in this beautiful, important, and regenerative act.
 
 # What is a Soil Supporter?
 
