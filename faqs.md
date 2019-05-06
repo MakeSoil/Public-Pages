@@ -73,3 +73,8 @@ You can also ‘promote’ a Soil Supporter in whom you have lots of trust, to b
 # Can a project or organization create and host one or more Soil Site(s)?
 
 The platform is designed to support both individuals AND organizations to create and host one or more Soil Sites. If you are part of a soil-making project or organization, you can post your organization’s Soil Site(s) to our online map while retaining your own identity on the platform, including a link to your website and any social media pages, and also your contact details.
+
+# Can I earn income as a Soil Maker?
+We're finding that some neighbors are willing to support their Soil Makers with a monthly contribution for receiving their food scraps. Talk with your neighbors.
+
+We're also finding that artisanal soil is becoming a valuable product, which means that Soil Makers producing high-quality soil may be able to sell it.
