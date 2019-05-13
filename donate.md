@@ -16,4 +16,5 @@ Thank you for being a part of MakeSoil!
   </a>
   <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
   </script>
+  <p><a href="/contact-us">Contact us</a> if you need bank account information or would like to discuss any other ways to donate.
 </div>
