@@ -11,8 +11,8 @@ MakeSoil has developed a Soil Maker Bin that takes the best knowledge we have ab
 The MakeSoil Soil Maker Bin design is free-to-use for personal and commercial use, and a suggested donation of $20 USD or 10% of sale price if you sell the bins for profit.
 
 # Build Guide
-* <a href="https://docs.google.com/document/d/1o8ayV6HfW81whocVO45VTXVj04JhL7x7xU_PqTRg0is/edit?usp=sharing" target="_blank">Google Doc</a>
-* <a href="https://drive.google.com/file/d/1p_UQAbEUt_omksB3pV5kMDb7WTXJHrTj/view?usp=sharing" target="_blank">PDF</a>
+* [Google Doc](https://docs.google.com/document/d/1o8ayV6HfW81whocVO45VTXVj04JhL7x7xU_PqTRg0is/edit?usp=sharing)
+* [PDF](https://drive.google.com/file/d/1p_UQAbEUt_omksB3pV5kMDb7WTXJHrTj/view?usp=sharing)
 
 # Where to purchase
 ## United States
