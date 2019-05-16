@@ -12,21 +12,21 @@ The MakeSoil Soil Maker Bin design is free-to-use for personal and commercial us
 * [PDF](https://drive.google.com/file/d/1p_UQAbEUt_omksB3pV5kMDb7WTXJHrTj/view?usp=sharing)
 
 
-# Where to purchase
-## United States
+## Where to purchase
+### United States
 
-### California
-#### Northern California
+#### California
+##### Northern California
 * Oversoul - oversoulsf@gmail.com
 
-### Colorado
-#### TBD
+#### Colorado
+##### TBD
 * Matt - beeman1_loveland@yahoo.com
 
-### Florida
-#### St. Petersburg
+#### Florida
+##### St. Petersburg
 * James - makesoilbinmaker@gmail.com
 
-### Texas
-#### Austin
+#### Texas
+##### Austin
 * Chase: makesoilbinmaker@gmail.com
