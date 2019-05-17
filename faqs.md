@@ -10,15 +10,15 @@ MakeSoil is a Nonprofit Organization. We re-invest any surplus funds back into o
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/k0x8JDKns5c?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### Build Resilient Communities
+## Build Resilient Communities
 
 Healthy soil has become rare and valuable in today’s world. By making soil together ourselves, out of the food and yard scraps in our own neighborhoods, we can save money and even generate new income and jobs. We can also use this soil to grow our own healthy food, becoming more self-sufficient and less reliant on the fragile industrial food system.
 
-#### Transform Your Understanding
+## Transform Your Understanding
 
 Watching our food and yard scraps turn back into living soil (instead of just throwing them in the trash), completes an essential feedback loop which transforms our understanding and relationship with our surroundings. Not only does this boost our personal sense of wellbeing, but we also begin to realize more fully how our current system works as a whole, and the role we play in this system as individuals.
 
-#### Regenerate The Planet
+## Regenerate The Planet
 
 We need to start regenerating the planet, rather than simply consuming it as a raw material. Our society produces an enormous amount of food waste. Currently, nearly all of it goes to landfills where it rots, releasing CO2 and methane — an even worse greenhouse gas. When instead we turn that food waste into soil, the carbon and nutrients go into the ground, capturing carbon, while producing the topsoil our food system depends on.
 

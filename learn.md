@@ -10,23 +10,23 @@ Then there are 4 general principles to keep in mind when making soil:
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/yuomHS3OMyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### 1) The Carbon to Nitrogen ratio
+## 1) The Carbon to Nitrogen ratio
 
 There should be 30 parts of carbon to every 1 part of nitrogen. Said another way, 3 parts ‘brown’ or ‘dry’ stuff (e.g. sawdust, dry leaves and paper) for every 1 part ‘green’ or ‘wet’ stuff (e.g. banana peels, apple cores, coffee grounds). 
 
 While that may sound daunting, it will quickly become intuitive: If it’s too moist and starting to smell, you need more high-carbon materials. If it’s dry and lifeless and not turning into soil, you need more high-nitrogen materials.
 
-#### 2) Airflow
+## 2) Airflow
 
 There should be sufficient airflow through the Soil Site bin, and generally the more, the better. This can be achieved, for instance, by ensuring that there are small gaps between the panels of your bin, or by having one side made of chicken wire.
 
-#### 3) Moisture
+## 3) Moisture
 
 The Soil Site should be sufficiently moist, but not too wet. Covering the Soil Site or at the very least keeping a layer of high-carbon matter on top, will help prevent your Soil Site from becoming dried out in hot, sunny conditions, or from becoming too moist when it rains.
 
 If the Soil Site remains too dry, either add more moist, high-nitrogen scraps (e.g. coffee grounds) or water.
 
-#### 4) Volume
+## 4) Volume
 
 One last point to consider is that you can’t make soil in a coffee cup! For a hot process, there needs to be a sufficient thermal mass - ensure your Soil Site is at least a few feet in diameter.
 
