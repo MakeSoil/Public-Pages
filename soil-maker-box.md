@@ -12,9 +12,16 @@ The MakeSoil Soil Maker Bin design is free-to-use for personal and commercial us
 
 # Build Guide
 * <a href="https://docs.google.com/document/d/1o8ayV6HfW81whocVO45VTXVj04JhL7x7xU_PqTRg0is/edit?usp=sharing" target="_blank">Google Doc</a>
+* This is a test
 * <a href="https://drive.google.com/file/d/1p_UQAbEUt_omksB3pV5kMDb7WTXJHrTj/view?usp=sharing" target="_blank">PDF</a>
+* This is a test
 * [Google Doc](https://docs.google.com/document/d/1o8ayV6HfW81whocVO45VTXVj04JhL7x7xU_PqTRg0is/edit?usp=sharing)
 * [PDF](https://drive.google.com/file/d/1p_UQAbEUt_omksB3pV5kMDb7WTXJHrTj/view?usp=sharing)
+
+<ul>
+  <li><a href="https://docs.google.com/document/d/1o8ayV6HfW81whocVO45VTXVj04JhL7x7xU_PqTRg0is/edit?usp=sharing" target="_blank">Google Doc</a></li>
+  <li><a href="https://drive.google.com/file/d/1p_UQAbEUt_omksB3pV5kMDb7WTXJHrTj/view?usp=sharing" target="_blank">PDF</a></li>
+</ul>
 
 # Where to purchase
 ## United States
