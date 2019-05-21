@@ -56,7 +56,7 @@ While you’re just getting started, you can also set your Soil Site as ‘Priva
 
 # What if I live in an apartment complex? Can I still host a Soil Site?
 
-Yes. An apartment complex can actually be an ideal place to start a Soil Site. In fact, our first ever Soil Site was started in an apartment complex! You can read the story of how it happened here: https://www.makesoil.org/story
+Yes. An apartment complex can actually be an ideal place to start a Soil Site. In fact, our first ever Soil Site was started in an apartment complex! You can read the story of how it happened here: <https://www.makesoil.org/story>
 
 # What if I don’t have access to garden space? Where can I host a Soil Site?
 
@@ -189,3 +189,7 @@ However, the scraps can attract small flies and so if you use an open container,
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/watch?v=5BpgQdydBhY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+# What should I do with my finished soil?
+
+Firstly, you won't end up with nearly as much as you think. However, once you've made some soil, you may want to grow something yourself e.g. a plant. It can be very rewarding to grow your own food, or even just indoor plants to liven up your living space. Otherwise, you will almost certainly have a neighbor or community garden nearby who would love to have some.
