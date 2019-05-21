@@ -54,6 +54,10 @@ You might want to let people know in the description of your Soil Site that you�
 
 While you’re just getting started, you can also set your Soil Site as ‘Private’ - meaning Soil Supporters won’t start bringing their scraps to you until you approve them as participants. And you can set a limit to the number of Soil Supporters you accept (it could be as low as 1 or 2), so your Soil Site won’t get overwhelmed while you are still developing your soil-making skills.
 
+# What if I live in an apartment complex? Can I still host a Soil Site?
+
+Yes. An apartment complex can actually be an ideal place to start a Soil Site. In fact, our first ever Soil Site was started in an apartment complex! You can read the story of how it happened [here]. (https://www.makesoil.org/story)
+
 # What if I don’t have access to garden space? Where can I host a Soil Site?
 
 There are lots of places where soil can be made, even in a dense city. Even if you don’t own any land or property yourself, you just need to be resourceful. After all, as you can see from the image of an urban Soil Site below, it doesn’t take much space to make soil. Could you get access to your neighbor’s yard, or a spare patch of nearby community land - perhaps some land that belongs to a church or local business?
