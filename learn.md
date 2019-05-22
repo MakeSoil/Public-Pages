@@ -93,7 +93,7 @@ This ‘hot’ process is able to handle most typical household waste, as well a
 Then there are 4 general principles to keep in mind when making soil:
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
-<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/yuomHS3OMyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/yuomHS3OMyo?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 1) The Carbon to Nitrogen ratio
@@ -147,7 +147,7 @@ If you have no pests, then you don’t strictly need any special equipment. You 
 We have also designed our own ‘ultimate Soil Maker Box’ (the video below shows the premium version) which will cover all your bases. If you are interested in getting the 'everyman' version for an affordable price, please contact us.
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
-<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/CqC-7GKg0gw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/CqC-7GKg0gw?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 # Will my pile smell bad?
@@ -187,7 +187,7 @@ Many people put their scraps in an air-tight, sealable container because they ar
 However, the scraps can attract small flies and so if you use an open container, it’s good to cover it with a breathable material (e.g. cheesecloth or a cotton/linen dishcloth). Alternatively, you can always keep your container in the refrigerator, or the freezer, depending on how long you need to wait before eventually taking your scraps to a Soil Site.
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
-<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/watch?v=5BpgQdydBhY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/5BpgQdydBhY?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 # What should I do with my finished soil?
