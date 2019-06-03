@@ -10,6 +10,6 @@ You can now download a ready-made, personalized poster advertising your Soil Sit
 #### 2. Invite People To Participate In Your Soil Site
 You can now send personalized email invitations to multiple people with just one click.
 
-![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/2%20New%20Features.png)
+![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/2%20New%20Features.png)
 
 https://github.com/MakeSoil/public-pages/blob/master/images/2%20New%20Features.png
