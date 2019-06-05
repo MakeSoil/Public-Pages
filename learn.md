@@ -154,6 +154,10 @@ We have also designed our own ‘ultimate Soil Maker Box’ (the video below sho
 
 Only if something is wrong. Maybe there’s too much nitrogen, not enough airflow, or it’s too wet. However, a well-managed pile should never smell bad.
 
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/kLXJVsNfjvw?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 # Will my pile attract pests e.g. rats?
 
 Possibly. Especially if your pile is not getting hot enough. When it’s hot, the materials are turning into soil too fast to attract pests, who will find it too uncomfortable to dig around in there anyway.
