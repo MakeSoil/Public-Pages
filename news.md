@@ -13,4 +13,4 @@ P.S. If you print two to a page, you can use them as flyers to hand out in your 
 You can now send personalized email invitations to multiple people with just one click.
 
 
-![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/2%20New%20Features.png)
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/2-new-features.png)
