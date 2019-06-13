@@ -2,7 +2,7 @@
 
 ## June 2019  
 
-### Two New Features, Requested By You, Are Now Ready 
+### Two New Features, Requested By You, Are Now Ready
 
 #### 1. Appoint Another Soil Maker To Help You Manage Your Soil Site
 
