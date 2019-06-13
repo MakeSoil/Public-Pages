@@ -15,7 +15,9 @@ This is designed for:
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/TGHEY_JctP0?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>  
+</div>
+</br>
+</br>
 
 #### 2. Make Your Soil Site Invisible On The MakeSoil Map  
 
@@ -28,7 +30,9 @@ This is designed for:
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/d4G10aqyQC0?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>  
+</div>
+</br>
+</br>
 
 ### Two New Resources To Help You Make Soil In The Best Way  
 
