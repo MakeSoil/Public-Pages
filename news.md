@@ -2,10 +2,9 @@
 
 ## June 2019  
 
-### Two New Features, Requested By You  
+### Two New Features, Requested By You, Have Now Been Released 
 
-#### 1. Appoint Another Soil Maker To Help You Manage Your Soil Site  
-
+#### 1. Appoint Another Soil Maker To Help You Manage Your Soil Site</ br>
 You can now invite a new participant to become a Soil Maker of your Soil Site alongside you, or promote one of your existing Soil Supporters to the Soil Maker role. This gives them more control so they can help to manage the Site. You can even make a new Soil Maker the 'Primary Soil Maker', which means you are effectively handing over ownership of the Soil Site.  
 
 This is designed for:  
@@ -30,7 +29,7 @@ This is designed for:
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/d4G10aqyQC0?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
 
-### Two New Resources To Help You Make Soil In The Best Possible Way  
+### Two New Resources To Help You Make Soil In The Best Way  
 
 #### 1. Get the Ultimate Soil Maker Box  
 
