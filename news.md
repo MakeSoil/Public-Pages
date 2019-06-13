@@ -4,10 +4,8 @@
 
 ### Two New Features, Requested By You, Have Now Been Released 
 
-#### 1. Appoint Another Soil Maker To Help You Manage Your Soil Site</ br>
-You can now invite a new participant to become a Soil Maker of your Soil Site alongside you, or promote one of your existing Soil Supporters to the Soil Maker role. This gives them more control so they can help to manage the Site. You can even make a new Soil Maker the 'Primary Soil Maker', which means you are effectively handing over ownership of the Soil Site.  
-
-This is designed for:  
+#### 1. Appoint Another Soil Maker To Help You Manage Your Soil Site
+</ br>You can now invite a new participant to become a Soil Maker of your Soil Site alongside you, or promote one of your existing Soil Supporters to the Soil Maker role. This gives them more control so they can help to manage the Site. You can even make a new Soil Maker the 'Primary Soil Maker', which means you are effectively handing over ownership of the Soil Site.</ br>This is designed for:  
 
 - Large Soil Sites (with lots of Soil Supporters), that need multiple Soil Makers to help manage the high volume of activity.
 - Organizations whose team members manage several different Sites.
