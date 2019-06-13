@@ -1,9 +1,11 @@
 # MakeSoil News
 
-## May 2019
+## June 2019
 
 ### Two New Features, Requested By You
+
 </ br>
+
 #### 1. Appoint Another Soil Maker To Help You Manage Your Soil Site
 </ br>
 You can now invite a new participant to become a Soil Maker of your Soil Site alongside you, or promote one of your existing Soil Supporters to the Soil Maker role. This gives them more control so they can help to manage the Site. You can even make a new Soil Maker the 'Primary Soil Maker', which means you are effectively handing over ownership of the Soil Site.
@@ -16,6 +18,7 @@ This is designed for:
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/TGHEY_JctP0?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+</ br>
 
 #### 2. Make Your Soil Site Invisible On The MakeSoil Map
 </ br>
@@ -43,6 +46,7 @@ We now have a 'Learn' section ([makesoil.org/learn]) where you can learn more ab
 
 ![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/2-new-resources.png)
 
+## May 2019
 
 ### Two New Features To Help Soil Makers Get Soil Supporters
 </ br>
