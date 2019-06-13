@@ -3,9 +3,7 @@
 ## June 2019
 
 ### Two New Features, Requested By You
-
-</ br>
-
+&nbsp;
 #### 1. Appoint Another Soil Maker To Help You Manage Your Soil Site
 </ br>
 You can now invite a new participant to become a Soil Maker of your Soil Site alongside you, or promote one of your existing Soil Supporters to the Soil Maker role. This gives them more control so they can help to manage the Site. You can even make a new Soil Maker the 'Primary Soil Maker', which means you are effectively handing over ownership of the Soil Site.
@@ -38,7 +36,7 @@ This is designed for:
 </ br>
 #### 1. Get the Ultimate Soil Maker Box
 </ br>
-We now have a dedicated page where you can learn about the 'ultimate' Soil Maker Box that we have designed. Download the step-by-step guide and then either build it yourself, or find a woodworker near you who could do it for you: [makesoil.org/the-soil-maker-box]
+We now have a dedicated page where you can learn about the 'ultimate' Soil Maker Box that we have designed. Download the step-by-step guide and then either build it yourself, or find a woodworker near you who could do it for you: [makesoil.org/the-soil-maker-box])makesoil.org/the-soil-maker-box)
 
 #### 2. Learn All You Need To Know About Making Soil
 </ br>
