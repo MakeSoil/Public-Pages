@@ -62,7 +62,7 @@ Yes. An apartment complex can actually be an ideal place to start a Soil Site. I
 
 There are lots of places where soil can be made, even in a dense city. Even if you don’t own any land or property yourself, you just need to be resourceful. After all, as you can see from the image of an urban Soil Site below, it doesn’t take much space to make soil. Could you get access to your neighbor’s yard, or a spare patch of nearby community land - perhaps some land that belongs to a church or local business?
 
-![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/Josh%20Bin.jpg)
+![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/josh-bin.jpg)
 
 # What if I travel a lot. Can I still be a Soil Maker?
 
@@ -142,7 +142,7 @@ This depends what pests you have to guard against.
 
 If you have no pests, then you don’t strictly need any special equipment. You could just mound up your scraps into a pile. However, you’ll need to keep your pile mounded, so you may soon find that some sort of container would be useful. With no pests, a simple contianer made from wooden pallets and some chicken wire is perfectly fine (see photo below). If you have raccoons, you might need a closed container that can only be opened by a human.
 
-![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/Josh%20Bin.jpg)
+![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/new-bin.jpg)
 
 We have also designed our own ‘ultimate Soil Maker Box’ (the video below shows the premium version) which will cover all your bases. If you are interested in getting the 'everyman' version for an affordable price, please contact us.
 
