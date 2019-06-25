@@ -5,7 +5,9 @@ Want to be a part of spreading MakeSoil far and wide? These are some resources y
 Great for putting on poster-boards and anywhere else people might be looking for information or connections.
 
 ![[Tear-Off Flyer 1](https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v1.pdf)](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v1.png)
+
 ![[Tear-Off Flyer 2](https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v2.pdf)](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v2.png)
+
 ![[Tear-Off Flyer 3](https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v3.pdf)](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v3.png)
 
 ## Cards
