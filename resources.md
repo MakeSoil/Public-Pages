@@ -4,14 +4,14 @@ Want to be a part of spreading MakeSoil far and wide? These are some resources y
 ## Tear-Off Flyers
 Great for putting on poster-boards and anywhere else people might be looking for information or connections.
 
-<div style="display:flex;flex-direction:row;flex-wrap:wrap;">
-	<a href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v1.pdf" target="_blank">
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;">
+	<a style="margin:auto;" href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v1.pdf" target="_blank">
 		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v1.png" alt="Tear-Off Flyer 1" width="250">
 	</a>
-	<a href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v2.pdf" target="_blank">
+	<a style="margin:auto;" href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v2.pdf" target="_blank">
 		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v2.png" alt="Tear-Off Flyer 2" width="250">
 	</a>
-	<a href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v3.pdf" target="_blank">
+	<a style="margin:auto;" href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v3.pdf" target="_blank">
 		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v3.png" alt="Tear-Off Flyer 3" width="250">
 	</a>
 </div>
