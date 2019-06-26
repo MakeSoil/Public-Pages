@@ -4,16 +4,24 @@ Want to be a part of spreading MakeSoil far and wide? These are some resources y
 ## Tear-Off Flyers
 Great for putting on poster-boards and anywhere else people might be looking for information or connections.
 
-[![Tear-Off Flyer 1](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v1.png)](https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v1.pdf)
-
-[![Tear-Off Flyer 2](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v2.png)](https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v2.pdf)
-
-[![Tear-Off Flyer 3](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v3.png)](https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v3.pdf)
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;">
+	<a href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v1.pdf" target="_blank">
+		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v1.png" alt="Tear-Off Flyer 1" width="250">
+	</a>
+	<a href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v2.pdf" target="_blank">
+		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v2.png" alt="Tear-Off Flyer 2" width="250">
+	</a>
+	<a href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v3.pdf" target="_blank">
+		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v3.png" alt="Tear-Off Flyer 3" width="250">
+	</a>
+</div>
 
 ## Cards
 Print-at-home cards are a great way to strike up conversations and get people interested in MakeSoil.
 
-[![Print-at-Home Cards](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-print-at-home-cards.png)](https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-print-at-home-cards.pdf)
+<a href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-print-at-home-cards.pdf" target="_blank">
+	<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-print-at-home-cards.png" alt="Print-at-Home Cards" width="400">
+</a>
 
 ## Custom Soil Site Posters
 Do you want a custom Soil Site Poster, complete with QR code, which people can use to learn more about your Soil Site? Go to your Soil Site ([or create one here](/host)) and you'll find the option on the left hand side of your Soil Site.
