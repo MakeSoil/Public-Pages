@@ -56,7 +56,11 @@ While you’re just getting started, you can also set your Soil Site as ‘Priva
 
 # What if I live in an apartment complex? Can I still host a Soil Site?
 
-Yes. An apartment complex can actually be an ideal place to start a Soil Site. In fact, our first ever Soil Site was started in an apartment complex! You can read the story of how it happened here: <https://www.makesoil.org/story>
+Yes. An apartment complex can actually be an ideal place to start a Soil Site. In fact, our first ever Soil Site was started in an apartment complex!
+
+In some cases, the property manager may be inspired to support you and may even want to become a Soil Maker of the Soil Site alongside you - which is great! In most cases though, it will be preferable for a resident to take ultimate responsibility for the Soil Site, without disturbing the property manager from carrying out their existing duties.
+
+If you need to mitigate some typical concerns that a property manager may have, scroll down these FAQs to read answers to common questions including 'Will my pile smell bad?' and 'Will my pile attract pests e.g. rats?'
 
 # What if I don’t have access to garden space? Where can I host a Soil Site?
 
