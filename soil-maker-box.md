@@ -33,4 +33,4 @@ The MakeSoil Soil Maker Bin design is free-to-use for personal and commercial us
 
 ### Texas
 #### Austin
-* Chase: panozzo.chase@gmail.com
+* Chase - panozzo.chase@gmail.com
