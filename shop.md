@@ -1,8 +1,8 @@
 # MakeSoil Shop 
 These are Soil Making products we've found useful ourselves and who are recommended by the MakeSoil community. We don't sell them directly and link directly to where you can purchase them. Some of the links contain affiliate codes that are used to generate revenue for the organization. 
 
-## Home Composting Products
-Home composting and soil making products.
+## Home Composting and Soil Making Products
+Products to manage food scraps or make soil at home.
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;">
   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=B0775MPRML&asins=B0775MPRML&linkId=aba25b3b412c329f2bd6592b76b16a68&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
