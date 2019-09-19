@@ -1,11 +1,15 @@
 # MakeSoil Shop 
-These are Soil Making products we've found useful. We don't sell them directly and link directly to where you can purchase them. Some of the links contain affiliate codes that are used to generate revenue from the organization. 
+These are Soil Making products we've found useful ourselves and who are recommended by the MakeSoil community. We don't sell them directly and link directly to where you can purchase them. Some of the links contain affiliate codes that are used to generate revenue for the organization. 
 
 ## Home Composting Products
 Home composting and soil making products.
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;">
   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=B0775MPRML&asins=B0775MPRML&linkId=aba25b3b412c329f2bd6592b76b16a68&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=B00AMNCYNQ&asins=B00AMNCYNQ&linkId=75f14b72e9f9cb521c2855a6197e4dcc&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=B003FIH64C&asins=B003FIH64C&linkId=bec530a501db71222e3663476bfaade2&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
   </iframe>
   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=B002P5RGMI&asins=B002P5RGMI&linkId=2795da25e8cf6d425ba09e073b00fe79&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
   </iframe>
@@ -16,6 +20,10 @@ Home composting and soil making products.
   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=B004U7LXHS&asins=B004U7LXHS&linkId=1a42d74ccd1ae05568c15509434d52d0&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
   </iframe>
   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=B006AV03PA&asins=B006AV03PA&linkId=e93792055e0d54e5adf3600515930560&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=B07PRWV6BJ&asins=B07PRWV6BJ&linkId=9edfb35ac05366e0388632c7a03a537b&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=B0085O6NXQ&asins=B0085O6NXQ&linkId=30679c4a8f1d0409aa2cb86ae82cbd4e&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
   </iframe>
 </div>
 
