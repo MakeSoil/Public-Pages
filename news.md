@@ -6,9 +6,9 @@
 </div>
 </br>
 
-We just released this new design for a flyer that you can use to invite people to participate in the MakeSoil movement with you. This adds to our growing repository of campaign materials that you can download for free from our Resources page here: makesoil.org/resources 
+We just released this new design for a flyer that you can use to invite people to participate in the MakeSoil movement with you. This adds to our growing repository of campaign materials that you can download for free from our Resources page here: [makesoil.org/resources](https://www.makesoil.org/resources)
 
-![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/2-new-resources.png)
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-flyer-v1.png)
 </div>
 </br>
 
@@ -24,7 +24,7 @@ As a decentralized movement, MakeSoil wants to invite and support you to become 
 
 To watch Wendy Husband's interview on a local Dubai radio station, click here: https://tinyurl.com/y2vwr2zl
 
-![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/2-new-resources.png)
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Dubai Radio.png)
 </div>
 </br>
 
