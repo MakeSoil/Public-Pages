@@ -24,7 +24,7 @@ As a decentralized movement, MakeSoil wants to invite and support you to become 
 
 To watch Wendy Husband's interview on a local Dubai radio station, click here: https://tinyurl.com/y2vwr2zl
 
-![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Dubai Radio.png)
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Dubai%20Radio.png)
 </div>
 </br>
 
