@@ -1,5 +1,48 @@
 # MakeSoil News
 
+## September 2019  
+
+### Beautiful New Flyer Design Released
+</div>
+</br>
+
+We just released this new design for a flyer that you can use to invite people to participate in the MakeSoil movement with you. This adds to our growing repository of campaign materials that you can download for free from our Resources page here: makesoil.org/resources 
+
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/2-new-resources.png)
+</div>
+</br>
+
+## August 2019  
+
+### Several New Soil Sites Suddenly Appear In The Middle East
+</div>
+</br>
+
+Thanks to Local Activator Wendy Husband, we very quickly went from having no Soil Sites at all in Dubai, to now having 10 Soil Sites there (and 1 in Abu Dhabi). And we are now regularly seeing new users and Soil Sites coming online there organically.
+
+As a decentralized movement, MakeSoil wants to invite and support you to become more than just a ‘user’ of another technology platform, but instead an active participant. Whether that's activating your local area, or just being proactive in recruiting Soil Supporters to contribute to your Soil Site, every new person taking part will in the end make a real positive difference.
+
+To watch Wendy Husband's interview on a local Dubai radio station, click here: https://tinyurl.com/y2vwr2zl
+
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/2-new-resources.png)
+</div>
+</br>
+
+## July 2019  
+
+### MakeSoil Featured In 2 Great Podcasts
+</div>
+</br>
+
+MakeSoil’s founder Josh Whiton was recently interviewed for 2 podcasts. The first was the Food Heroes Podcast, which you can listen to here: https://tinyurl.com/y3lalosq
+
+The other interview was for the Simulation Show, which you can watch here:
+
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/1OUkgANpDZk?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</br>
+
 ## June 2019  
 
 ### Two New Features, Requested By You, Are Now Ready
