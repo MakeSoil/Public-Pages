@@ -5,7 +5,11 @@
 There is a growing demand from people who are new to composting, for someone more experienced to guide and educate them. So we have created this page, where composting newbies can view profiles of expert Soil Makers and contact them. Good luck and enjoy!
 
 ## Amanda Streets (Clearwater, Florida, USA)
- 
+
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/AmandaStreets.jpg)
+</div>
+</br>
+
 #### Expertise:
 </div>
 </br>
@@ -35,7 +39,11 @@ I am passionate about composting because it is just the way our organic waste sh
 I have a number of different composting systems that I use or instruct with. My preferred method is a simple hardware cloth ring, but that is for large volumes in an area shielded from public view. I also use a tumbler, and a closed container open on the bottom. I am working with a client now to build up to small windrows, and have taught a number of classes using the MakeSoil bin design as a model composter.
 
 ## Elise Pickett (St Petersburg, Florida, USA)
- 
+
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ElisePickett.jpeg)
+</div>
+</br>
+
 #### Expertise:
 </div>
 </br>
@@ -71,13 +79,13 @@ Quality soil is the absolute best way to grow a bountiful garden and composting 
 If you would like to be featured on this page as a Soil Maker who is happy to be contacted for consulting opportunities, please send an email to community@makesoil.org with your responses to the following qustions:
 
 1. Do you host a Soil Site on MakeSoil.org with at least 3 Soil Supporters?
-(This is a requirement to be featured as a Soil Maker on the page)
+_This is a requirement to be featured as a Soil Maker on the page_
 
 2. What method(s) of composting do you have expertise in?
-(E.g. Hot composting, vermicomposting (worms), bokashi etc)
+_E.g. Hot composting, vermicomposting (worms), bokashi etc_
 
 3. Would you need to be paid for your composting consulting services?
-(If yes, please tell us what your hourly rate would be in US dollars)
+_If yes, please tell us what your hourly rate would be in US dollars_
 
 4. Where in the world are you based?
 
