@@ -63,7 +63,7 @@ $50
 Both
  
 #### About:
- </div>
+</div>
 </br>
 
 I began composting 10 years ago with a single purchased bin but quickly outgrew its capacities. After attending a 6 month commercial ag program with Growing Power I shifted my methods to larger scale production using a 3 bin pallet set up for passive no turn piles and windrow composting for quick turnover production (all of my approaches use hot composting). I also started using a passive vermicomposting process which feeds the worms my finished compost rather than fresh food scraps.
@@ -74,26 +74,26 @@ I am the owner of The Urban Harvest which teaches the basics of sustainable vege
  
 Quality soil is the absolute best way to grow a bountiful garden and composting is the best way to build that soil. Our modern agricultural system needs to change, that means growing where the people are (even in urban settings) and taking a restorative approach where we work in fluid balance with nature. The more people who know how to grow soil the better!
 
-## Get featured as a 'Soil Maker for hire' on this page
+# Get featured as a 'Soil Maker for hire' on this page
 
 If you would like to be featured on this page as a Soil Maker who is happy to be contacted for consulting opportunities, please send an email to community@makesoil.org with your responses to the following qustions:
 
-1. Do you host a Soil Site on MakeSoil.org with at least 3 Soil Supporters?
+#### 1. Do you host a Soil Site on MakeSoil.org with at least 3 Soil Supporters?
 _This is a requirement to be featured as a Soil Maker on the page_
 
-2. What method(s) of composting do you have expertise in?
+#### 2. What method(s) of composting do you have expertise in?
 _E.g. Hot composting, vermicomposting (worms), bokashi etc_
 
-3. Would you need to be paid for your composting consulting services?
+#### 3. Would you need to be paid for your composting consulting services?
 _If yes, please tell us what your hourly rate would be in US dollars_
 
-4. Where in the world are you based?
+#### 4. Where in the world are you based?
 
-5. Would you be happy to advise people remotely via the internet/phone?
+#### 5. Would you be happy to advise people remotely via the internet/phone?
 
-6. Please provide a brief description of yourself, which includes:
+#### 6. Please provide a brief description of yourself, which includes:
 - How and when you first began composting
 - Why you are passionate about composting
 - What your current soil-making approach and activity looks like
 
-7. Finally, please provide a good quality headshot photo of yourself.
+#### 7. Finally, please provide a good quality headshot photo of yourself.
