@@ -88,8 +88,12 @@ _E.g. Hot composting, vermicomposting (worms), bokashi etc_
 _If yes, please tell us what your hourly rate would be in US dollars_
 
 #### 4. Where in the world are you based?
+</div>
+</br>
 
 #### 5. Would you be happy to advise people remotely via the internet/phone?
+</div>
+</br>
 
 #### 6. Please provide a brief description of yourself, which includes:
 - How and when you first began composting
