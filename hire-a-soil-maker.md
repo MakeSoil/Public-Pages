@@ -6,7 +6,7 @@ There is a growing demand from people who are new to composting, for someone mor
 
 ## Amanda Streets (Clearwater, Florida, USA)
 
-![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/AmandaStreets.jpg)
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Amanda300x300tiny.jpeg)
 </div>
 </br>
 
@@ -40,7 +40,7 @@ I have a number of different composting systems that I use or instruct with. My 
 
 ## Elise Pickett (St Petersburg, Florida, USA)
 
-![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ElisePickett.jpeg)
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Elise300x300tiny.jpeg)
 </div>
 </br>
 
