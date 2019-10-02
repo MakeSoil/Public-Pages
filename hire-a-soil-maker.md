@@ -96,6 +96,9 @@ _If yes, please tell us what your hourly rate would be in US dollars_
 </br>
 
 #### 6. Please provide a brief description of yourself, which includes:
+</div>
+</br>
+
 - How and when you first began composting
 - Why you are passionate about composting
 - What your current soil-making approach and activity looks like
