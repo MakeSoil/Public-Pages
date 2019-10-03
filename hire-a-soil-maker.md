@@ -38,6 +38,12 @@ I am passionate about composting because it is just the way our organic waste sh
  
 I have a number of different composting systems that I use or instruct with. My preferred method is a simple hardware cloth ring, but that is for large volumes in an area shielded from public view. I also use a tumbler, and a closed container open on the bottom. I am working with a client now to build up to small windrows, and have taught a number of classes using the MakeSoil bin design as a model composter.
 
+#### Contact:
+ </div>
+</br>
+
+amanda@livingrootsecodesign.com
+
 ## Elise Pickett (St Petersburg, Florida, USA)
 
 ![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Elise300x300tiny.jpeg)
@@ -73,6 +79,12 @@ I currently have two Soil Sites on MakeSoil.org and will be adding a third once 
 I am the owner of The Urban Harvest which teaches the basics of sustainable vegetable gardening here in Florida. I teach classes and workshops all over our county, do private consultations, and produce weekly Florida vegetable gardening videos.
  
 Quality soil is the absolute best way to grow a bountiful garden and composting is the best way to build that soil. Our modern agricultural system needs to change, that means growing where the people are (even in urban settings) and taking a restorative approach where we work in fluid balance with nature. The more people who know how to grow soil the better!
+
+#### Contact:
+ </div>
+</br>
+
+elise.pickett@theurbanharvest.com
 
 # Get featured as a 'Soil Maker for hire' on this page
 
