@@ -66,7 +66,7 @@ If you need to mitigate some typical concerns that a property manager may have, 
 
 There are lots of places where soil can be made, even in a dense city. Even if you don’t own any land or property yourself, you just need to be resourceful. After all, as you can see from the image of an urban Soil Site below, it doesn’t take much space to make soil. Could you get access to your neighbor’s yard, or a spare patch of nearby community land - perhaps some land that belongs to a church or local business?
 
-![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/josh-bin.jpg)
+![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/josh-bin.jpg)
 
 # What if I travel a lot. Can I still be a Soil Maker?
 
@@ -90,7 +90,7 @@ We're also finding that artisanal soil is becoming a valuable product, which mea
 
 # How can I make soil?
 
-There are many different ways to make soil. However, we consider the thermophilic, microbial soil-making process - commonly referred to as ‘hot’ composting - to be the most versatile and robust. In this process, the Soil Site could ideally reach temperatures of around 130°F (54°C), supporting many different microbes as they voraciously chew and digest the materials in a Soil Site, which is what ultimately turns those materials into what we recognize as soil. 
+There are many different ways to make soil. However, we consider the thermophilic, microbial soil-making process - commonly referred to as ‘hot’ composting - to be the most versatile and robust. In this process, the Soil Site could ideally reach temperatures of around 130°F (54°C), supporting many different microbes as they voraciously chew and digest the materials in a Soil Site, which is what ultimately turns those materials into what we recognize as soil.
 
 This ‘hot’ process is able to handle most typical household waste, as well as a diversity of inputs from neighbors and the surrounding community e.g. coffee shops, restaurants, workplaces etc.
 
@@ -102,7 +102,7 @@ Then there are 4 general principles to keep in mind when making soil:
 
 ## 1) The Carbon to Nitrogen ratio
 
-There should be 30 parts of carbon to every 1 part of nitrogen. Said another way, 3 parts ‘brown’ or ‘dry’ stuff (e.g. sawdust, dry leaves and paper) for every 1 part ‘green’ or ‘wet’ stuff (e.g. banana peels, apple cores, coffee grounds). 
+There should be 30 parts of carbon to every 1 part of nitrogen. Said another way, 3 parts ‘brown’ or ‘dry’ stuff (e.g. sawdust, dry leaves and paper) for every 1 part ‘green’ or ‘wet’ stuff (e.g. banana peels, apple cores, coffee grounds).
 
 While that may sound daunting, it will quickly become intuitive: If it’s too moist and starting to smell, you need more high-carbon materials. If it’s dry and lifeless and not turning into soil, you need more high-nitrogen materials.
 
@@ -146,7 +146,7 @@ This depends what pests you have to guard against.
 
 If you have no pests, then you don’t strictly need any special equipment. You could just mound up your scraps into a pile. However, you’ll need to keep your pile mounded, so you may soon find that some sort of container would be useful. With no pests, a simple contianer made from wooden pallets and some chicken wire is perfectly fine (see photo below). If you have raccoons, you might need a closed container that can only be opened by a human.
 
-![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/new-bin.jpg)
+![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/new-bin.jpg)
 
 We have also designed our own ‘ultimate Soil Maker Box’ (the video below shows the premium version) which will cover all your bases. If you are interested in getting the 'everyman' version for an affordable price, please contact us.
 
@@ -170,7 +170,7 @@ You can also protect against pests by burying your freshest scraps in the middle
 
 # How can I get more materials being contributed to my pile?
 
-The most direct way is to go door-to-door in your neighbourhood and ask people to become Soil Supporters to your Soil Site, contributing their leftovers and scraps. Coffee shops are usually happy to share their leftover coffee grounds with customers at the end of the day. Carpenters and mills generally have lots of sawdust to spare. And breweries tend to yield lots of organic waste too. 
+The most direct way is to go door-to-door in your neighbourhood and ask people to become Soil Supporters to your Soil Site, contributing their leftovers and scraps. Coffee shops are usually happy to share their leftover coffee grounds with customers at the end of the day. Carpenters and mills generally have lots of sawdust to spare. And breweries tend to yield lots of organic waste too.
 
 # When can I add more materials to my pile?
 
@@ -206,23 +206,23 @@ Firstly, you won't end up with nearly as much as you think. However, once you've
 
 ## Introduction
 
-For us at MakeSoil, there is so much more to being a Soil Maker than just having a compost heap in your backyard. The Soil Maker is now emerging as an important new role in society. And as more people begin to discover the *economic* opportunity around soil making, the ‘Soil Maker’ is even set to become one of the first regenerative jobs to go mainstream globally.
+For us at MakeSoil, there is so much more to being a Soil Maker than just having a compost heap in your backyard. The Soil Maker is now emerging as an important new role in society. And as more people begin to discover the _economic_ opportunity around soil making, the ‘Soil Maker’ is even set to become one of the first regenerative jobs to go mainstream globally.
 
-So here is a brief guide on how to become the *ultimate* Soil Maker...
+So here is a brief guide on how to become the _ultimate_ Soil Maker...
 
 ## 1) Just do it!
 
-Don’t keep waiting for the perfect moment when you will *finally* be ready to get started. The truth is, almost no culture in history has ever really figured out how to do soil making well. That means that very few human beings, relatively speaking, have ever been a Soil Maker! So don’t hesitate. Your planet and your community need you to act right now. Learn what you need to as you go, ‘on the job’. You will find that it will all become intuitive very quickly.
+Don’t keep waiting for the perfect moment when you will _finally_ be ready to get started. The truth is, almost no culture in history has ever really figured out how to do soil making well. That means that very few human beings, relatively speaking, have ever been a Soil Maker! So don’t hesitate. Your planet and your community need you to act right now. Learn what you need to as you go, ‘on the job’. You will find that it will all become intuitive very quickly.
 
 ## 2) Create your Soil Site
 
-If you haven’t already, find somewhere to build your pile. This could be as simple as a mound of scraps that you cover with a makeshift ‘lid’ to protect the heap from the rain. However, depending what pests you have to guard against, you might need something more. 
+If you haven’t already, find somewhere to build your pile. This could be as simple as a mound of scraps that you cover with a makeshift ‘lid’ to protect the heap from the rain. However, depending what pests you have to guard against, you might need something more.
 
 To download our instruction guide on how to build the ultimate Soil Maker Box, click here: [https://www.makesoil.org/the-soil-maker-box] You can then choose to either build it yourself, or to get the help of a local woodworker.
 
 ## 3) Choose the right place for your Soil Maker Box
 
-MakeSoil wants to transform soil making from a backyard hobby into a front yard movement. The best way to do this, is to put your Soil Maker Box in a highly visible spot that is also accessible to the public. This way, people who are not even necessarily *participating* in your Soil Site, will see what’s happening. People will stop and look. Conversations will take place. New thoughts and actions will be provoked. And that’s how your small act can build a movement!
+MakeSoil wants to transform soil making from a backyard hobby into a front yard movement. The best way to do this, is to put your Soil Maker Box in a highly visible spot that is also accessible to the public. This way, people who are not even necessarily _participating_ in your Soil Site, will see what’s happening. People will stop and look. Conversations will take place. New thoughts and actions will be provoked. And that’s how your small act can build a movement!
 
 You could even create your Soil Site at a community center (e.g. school, workplace, church, coffee shop, grocery store), since such places generate lots of compostable materials.
 
@@ -238,15 +238,15 @@ Take a good quality photo of your Soil Site and add it to your Soil Site profile
 
 You will soon find that you can’t make much soil, if any, from just your own food scraps. You will need extra help from family, friends or neighbors who can contribute their scraps to you. Not only does this help you to make soil and reduce ‘waste’, but it also has the added benefit of creating more social links between the people in your household, street or neighborhood.
 
-The most direct way to get ‘Soil Supporters’ contributing their scraps to your Soil Site, is to go door-to-door asking your neighbors ‘Will you help me to make soil? I need your scraps.’. The key next step is to invite them to join your Soil Site on the MakeSoil.org platform itself. 
+The most direct way to get ‘Soil Supporters’ contributing their scraps to your Soil Site, is to go door-to-door asking your neighbors ‘Will you help me to make soil? I need your scraps.’. The key next step is to invite them to join your Soil Site on the MakeSoil.org platform itself.
 
 You can invite people by email directly from your Soil Site page on the platform, or you can grab the link from your Soil Site page and share it on social media or local community websites like Meetup or Nextdoor, inviting people near you to become your Soil Supporters.
 
-On your Soil Site page, you can also download and print a poster that you can laminate and place somewhere visible near your Soil Site to attract potential Soil Supporters who will walk by. And if you print two to a page, you can use it as a flyer to hand out in your neighborhood. 
+On your Soil Site page, you can also download and print a poster that you can laminate and place somewhere visible near your Soil Site to attract potential Soil Supporters who will walk by. And if you print two to a page, you can use it as a flyer to hand out in your neighborhood.
 
 ## 6) Master the art of soil making
 
-To regenerate the planet, we don’t need every single person to become a Soil Maker. What we do need though, is at least one ‘master Soil Maker’ on every street or block - someone who takes responsibility for mastering the art of soil making, so that others don’t have to. 
+To regenerate the planet, we don’t need every single person to become a Soil Maker. What we do need though, is at least one ‘master Soil Maker’ on every street or block - someone who takes responsibility for mastering the art of soil making, so that others don’t have to.
 
 This means educating yourself on the 4 fundamental principles of soil making, and reading books like the Humanure Handbook that explore the full potential of soil making in depth. The rest will come through practice and experience, and exchanging with other Soil Makers.
 
@@ -254,7 +254,7 @@ This means educating yourself on the 4 fundamental principles of soil making, an
 
 It turns out that when people see their food scraps turn into living soil (instead of just throwing them in the trash), it completes an essential feedback loop. You witness first-hand how the planet heals and renews itself. And you experience how our human lives can be harmonized with nature. This experience reprograms your consciousness for ‘Earth empathy’ - the sense that the planet is alive, and the natural desire to be kinder to the planet.
 
-The *ultimate* Soil Maker knows this secret, and thus encourages their Soil Supporters to have the full experience: (1) Bury your scraps in the heap yourself (2) Stop by the Soil Site occasionally to see how the soil making process is going (3) See and touch the finished soil.
+The _ultimate_ Soil Maker knows this secret, and thus encourages their Soil Supporters to have the full experience: (1) Bury your scraps in the heap yourself (2) Stop by the Soil Site occasionally to see how the soil making process is going (3) See and touch the finished soil.
 
 ## 8) Make good use of the MakeSoil.org platform
 
