@@ -1,7 +1,7 @@
 # Donate to MakeSoil
-MakeSoil is a non-profit organization with the goal of making soil together on a planet-saving scale. We're lean and agile, and like any other organization, we need money to accomplish our goals. MakeSoil is a 501(c)(3) in the United States, which means that donations are tax deductible in the US and many other countries.
+MakeSoil is a non-profit organization with the goal of mobilizing humanity to make soil together on a planet-saving scale. We're lean and agile, and like any other organization, we need money to accomplish our goals. MakeSoil is a 501(c)(3) in the United States, which means that donations are tax-deductible in the US and many other countries.
 
-If you can't afford to make a monetary contribution, the best support you can give us is to make soil yourself and invite your neighbors and friends to become soil supporters, as well as sharing MakeSoil far and wide.
+If you can't afford to make a monetary contribution, the best support you can give us is to become a Soil Maker or Soil Supporter yourself, inviting your neighbors and friends to participate with you, as well as sharing MakeSoil far and wide.
 
 Thank you for being a part of MakeSoil!
 
