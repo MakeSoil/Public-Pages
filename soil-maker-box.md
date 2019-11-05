@@ -6,9 +6,11 @@ There are many commercially available "composters", or soil-making solutions, av
 
 MakeSoil has developed a Soil Maker Box that takes the best knowledge we have about making soil and combines it with clever features so that anyone with a little bit of space can start making soil in their own home. 
 
+![Soil Maker Box image](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/SoilMakerBoxNC.png)
+
 ![Soil Maker Box CAD image](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-soil-maker-box.png)
 
-The MakeSoil Soil Maker Box design is free-to-use for personal and commercial use, and a suggested donation of $20 USD or 10% of sale price if you sell the bins for profit.
+#### You are free to use our MakeSoil Soil Maker Box design either to build one for your own personal use OR to sell on to others. In return, we invite you to make a suggested donation of $20 USD per Soil Maker Box. You can do this via our Donate page here: [https://www.makesoil.org/donate]
 
 # Build it Yourself
 <ul>
