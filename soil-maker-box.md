@@ -10,7 +10,7 @@ MakeSoil has developed a Soil Maker Box that takes the best knowledge we have ab
 
 ![Soil Maker Box CAD image](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-soil-maker-box.png)
 
-#### You are free to use our MakeSoil Soil Maker Box design either to build one for your own personal use OR to sell on to others. In return, we invite you to make a suggested donation of $20 USD per Soil Maker Box. You can do this via our Donate page here: [https://www.makesoil.org/donate](makesoil.org/donate)
+#### You are free to use our MakeSoil Soil Maker Box design either to build one for your own personal use OR to sell on to others. In return, we invite you to make a suggested donation of $20 USD per Soil Maker Box. You can do this via our Donate page here: [makesoil.org/donate](https://www.makesoil.org/donate)
 
 # Build it Yourself
 <ul>
