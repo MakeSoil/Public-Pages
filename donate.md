@@ -10,6 +10,7 @@
 </div>
   
 ## Donate With Crypto
+
 <div>  
   <p>
     <a class="donate-with-crypto"
@@ -22,6 +23,7 @@
 </div>
 
 ## Fidelity Charitable
+
 <div>
   <p><script type = "text/javascript">_dafdirect_settings="824769177_2011_9a6dc69d-aa42-4a2b-a5d7-3dbdfa422e5c"</script><script type = "text/javascript" src = "https://www.dafdirect.org/ddirect/dafdirect4.js"></script></p>
 </div>
@@ -32,12 +34,10 @@ Use [DAF Direct](https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings
 
 Our mailing address is:
 
-**MakeSoil**
-**401 Broadway Suite**
-**100 PMB 91115**
-**Tacoma, WA 98402**
+**MakeSoil\
+401 Broadway Suite 100 PMB 91115\
+Tacoma, WA 98402**
 
 ## Any Questions?
- <div> 
-  <p><a href="/contact-us">Contact us</a> if you need bank account information or would like to discuss any other ways to donate.</p>
-</div>
+
+[Contact us](/contact-us) if you need bank account information or would like to discuss any other ways to donate.
