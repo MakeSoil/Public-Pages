@@ -8,14 +8,14 @@
   <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="685px" width="100%" style="max-width:425px; min-width:310px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
   <br />
 </div>
-  
+
 ## Donate With Crypto
 
 <div>  
   <p>
     <a class="donate-with-crypto"
       href="https://commerce.coinbase.com/checkout/baf9ce19-918b-4b47-ae0d-aec51091d202">
-      <span>Donate with Crypto</span>
+      <span>Donate with Crypto using Coinbase</span>
     </a>
     <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
     </script>
@@ -34,8 +34,8 @@ Use [DAF Direct](https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings
 
 Our mailing address is:
 
-**MakeSoil\
-401 Broadway Suite 100 PMB 91115\
+**MakeSoil</br>
+401 Broadway Suite 100 PMB 91115</br>
 Tacoma, WA 98402**
 
 ## Any Questions?
