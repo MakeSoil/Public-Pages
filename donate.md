@@ -6,9 +6,13 @@ If you can't afford to make a monetary contribution, the best support you can gi
 
 Thank you for being a part of MakeSoil!
 
+## Donate via Card, PayPal or Bank Transfer
+
 <div style="text-align: center;">
   <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="685px" width="100%" style="max-width:425px; min-width:310px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
   <br />
+  
+## Donate with Crypto
   <p>
     <a class="donate-with-crypto"
       href="https://commerce.coinbase.com/checkout/baf9ce19-918b-4b47-ae0d-aec51091d202">
@@ -18,5 +22,7 @@ Thank you for being a part of MakeSoil!
     </script>
   </p>
   <p><script type = "text/javascript">_dafdirect_settings="824769177_2011_9a6dc69d-aa42-4a2b-a5d7-3dbdfa422e5c"</script><script type = "text/javascript" src = "https://www.dafdirect.org/ddirect/dafdirect4.js"></script></p>
+  
+## Any questions?
   <p><a href="/contact-us">Contact us</a> if you need bank account information or would like to discuss any other ways to donate.</p>
 </div>
