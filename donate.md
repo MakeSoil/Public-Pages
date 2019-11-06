@@ -34,9 +34,11 @@ Use [DAF Direct](https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings
 
 Our mailing address is:
 
-**MakeSoil</br>
+<div style="font-weight: bold;">
+MakeSoil</br>
 401 Broadway Suite 100 PMB 91115</br>
-Tacoma, WA 98402**
+Tacoma, WA 98402
+</div>
 
 ## Any Questions?
 
