@@ -1,14 +1,14 @@
-# Donate to MakeSoil
+# Donate To MakeSoil
 
 #### MakeSoil is a U.S. based 501(c)(3) Non-Profit Organization. This means that donations are tax-deductible in the US and many other countries.
 
-## Donate via Card, PayPal or Bank Transfer
+## Donate Via Card, PayPal Or Bank Transfer
 
 <div style="text-align: center;">
   <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="685px" width="100%" style="max-width:425px; min-width:310px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
   <br />
   
-## Donate with Crypto
+  ## Donate With Crypto
   
   <p>
     <a class="donate-with-crypto"
@@ -20,7 +20,7 @@
   </p>
   <p><script type = "text/javascript">_dafdirect_settings="824769177_2011_9a6dc69d-aa42-4a2b-a5d7-3dbdfa422e5c"</script><script type = "text/javascript" src = "https://www.dafdirect.org/ddirect/dafdirect4.js"></script></p>
   
-## Send us a check
+  ## Send Us A Check
 
 Our mailing address is:
 
@@ -29,7 +29,7 @@ Our mailing address is:
 #### 100 PMB 91115
 #### Tacoma, WA 98402
 
-## Any questions?
+## Any Questions?
   
   <p><a href="/contact-us">Contact us</a> if you need bank account information or would like to discuss any other ways to donate.</p>
 </div>
