@@ -24,9 +24,8 @@
 
 ## Donate Via Fidelity Charitable
 
-<div>
-<script type="text/javascript">_dafdirect_settings="824769177_2011_9a6dc69d-aa42-4a2b-a5d7-3dbdfa422e5c"</script><script type="text/javascript" src="https://www.dafdirect.org/ddirect/dafdirect4.js"></script>
-</div>
+<script type="text/javascript">_dafdirect_settings="824769177_2011_9a6dc69d-aa42-4a2b-a5d7-3dbdfa422e5c"</script>
+<script type="text/javascript" src="https://www.dafdirect.org/ddirect/dafdirect4.js"></script>
 
 <div>Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate through Fidelity Charitable.</div>
 
