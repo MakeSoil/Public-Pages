@@ -4,6 +4,26 @@ MakeSoil is an online platform powering a global movement to make soil together 
 
 MakeSoil is a Nonprofit Organization. We re-invest any surplus funds back into our mission.
 
+# How did MakeSoil start?
+
+In 2009, MakeSoil founder [Josh Whiton](http://joshwhiton.com/) was living in a suburban apartment block in the city of Raleigh, North Carolina in the United States. He noticed that all the residents there were just throwing all their waste into the trash, which would be taken away to sprawling landfill sites outside the city.
+
+Josh was sure there was a more beautiful way to do things. So, one day, he found some discarded wooden pallets, fixed them together to make a compost bin outside his building, and went door-to-door inviting his fellow residents to donate their food scraps to him.
+
+People soon got the idea, and were glad to have a clear, simple and practical way to do something good for the planet. And as Josh began to master the art of making soil, they were even more amazed to see how quickly all sorts of organic materials could be turned back into rich, living soil.
+
+![shelton community garden](https://www.makesoil.org/static/media/our-story-2.8051801c.jpg)
+
+Shelton Community Garden in bloom. See the photo journey of how it came together [here](https://www.flickr.com/photos/subterfuge/sets/72157617245152488/with/4457873310/).
+
+And now that they had direct access to good quality soil, it wasn't long before they all came together to create a beautiful community garden too, all starting from simple food scraps.
+
+Josh was himself amazed to watch all of this unfold, as he gradually began to fully realise the great potential of this simple yet profound act - of making soil together - to inspire people, to bring them together, and to repair our relationship with our planet, all at the same time:
+
+"I'm still in awe of the transformations I saw in people as they began to participate in the process and have that experience of making soil. It was unexpected and profound. Despite having been the CEO of a successful tech startup, building that compost bin and inviting people to use it, is perhaps the simplest thing I've ever done that had the greatest benefit."
+
+It's the simple desire to share this experience, that gave birth to MakeSoil.
+
 # Why make soil?
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
@@ -170,7 +190,7 @@ You can also protect against pests by burying your freshest scraps in the middle
 
 # How can I get more materials being contributed to my pile?
 
-The most direct way is to go door-to-door in your neighbourhood and ask people to become Soil Supporters to your Soil Site, contributing their leftovers and scraps. Coffee shops are usually happy to share their leftover coffee grounds with customers at the end of the day. Carpenters and mills generally have lots of sawdust to spare. And breweries tend to yield lots of organic waste too.
+The most direct way is to go door-to-door in your neighbourhood and ask people to become Soil Supporters to your Soil Site, contributing their leftovers and scraps. If you don't find Soil Supporters amongst your neighbors, the next best thing would be to ask local coffee shops (coffee grounds), restaurants and grocery stores (food scraps/waste), carpenters (sawdust) or breweries. These places tend to yield lots of organic waste. You may start to see other opportunities around you too.
 
 # When can I add more materials to my pile?
 
@@ -184,7 +204,7 @@ In general, the Soil Maker Box should be in a pleasing spot that entices people 
 
 # Should the Soil Maker Box sit on organic material or have a concrete base? Would a bed of crushed shell work?
 
-It’s good to have the Soil Maker Box's contents in touch with the ground. It’s also nice to keep a wooden Soil Maker Box from sitting directly on the ground.
+It can be good to have the contents of the Soil Maker Box in touch with the ground. However, to extend the life of the wood, it’s also good to prevent any of the wood from sitting directly on the ground.
 
 Crushed shells, brick, or gravel under the wooden boards that may make up a wooden bin’s base would be ideal, with bare ground in the middle so the bin’s contents can touch the earth.
 
@@ -238,7 +258,7 @@ Take a good quality photo of your Soil Site and add it to your Soil Site profile
 
 You will soon find that you can’t make much soil, if any, from just your own food scraps. You will need extra help from family, friends or neighbors who can contribute their scraps to you. Not only does this help you to make soil and reduce ‘waste’, but it also has the added benefit of creating more social links between the people in your household, street or neighborhood.
 
-The most direct way to get ‘Soil Supporters’ contributing their scraps to your Soil Site, is to go door-to-door asking your neighbors ‘Will you help me to make soil? I need your scraps.’. The key next step is to invite them to join your Soil Site on the MakeSoil.org platform itself.
+The most direct way to get ‘Soil Supporters’ contributing their scraps to your Soil Site, is to go door-to-door asking your neighbors ‘Will you help me to make soil? I need your scraps’. The key next step is to invite them to join your Soil Site on the MakeSoil.org platform itself.
 
 You can invite people by email directly from your Soil Site page on the platform, or you can grab the link from your Soil Site page and share it on social media or local community websites like Meetup or Nextdoor, inviting people near you to become your Soil Supporters.
 
