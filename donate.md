@@ -21,7 +21,7 @@
 
 ## Send Us A Check
 
-<div style="text-align: center;margin-top: 2rem;">
+<div style="text-align: center;">
 Our mailing address is:
 
 <div style="font-weight: bold;">
