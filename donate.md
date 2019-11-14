@@ -17,7 +17,7 @@
 
 <IFrame src="/dafdirect.html" />
 
-<div>Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate through Fidelity Charitable.</div>
+<div style="text-align: center;">Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate through Fidelity Charitable.</div>
 
 ## Send Us A Check
 
