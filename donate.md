@@ -11,16 +11,7 @@
 
 ## Donate With Crypto
 
-<div>  
-  <p>
-    <a class="donate-with-crypto"
-      href="https://commerce.coinbase.com/checkout/baf9ce19-918b-4b47-ae0d-aec51091d202" target="_blank">
-      <span>Donate with Crypto using Coinbase</span>
-    </a>
-    <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-    </script>
-  </p>
-</div>
+<IFrame src="/coinbase.html" />
 
 ## Donate Via Fidelity Charitable
 
