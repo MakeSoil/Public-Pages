@@ -4,7 +4,7 @@
 
 ## Donate Via Card, PayPal Or Bank Transfer
 
-<div style="text-align: center;">
+<div style="text-align: center;margin-top: 2rem;">
   <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="685px" width="100%" style="max-width:425px; min-width:310px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
   <br />
 </div>
@@ -21,12 +21,14 @@
 
 ## Send Us A Check
 
+<div style="text-align: center;margin-top: 2rem;">
 Our mailing address is:
 
 <div style="font-weight: bold;">
 MakeSoil</br>
 401 Broadway Suite 100 PMB 91115</br>
 Tacoma, WA 98402
+</div>
 </div>
 
 ## Any Questions?
