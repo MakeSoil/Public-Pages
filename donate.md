@@ -23,7 +23,6 @@
 
 <div style="text-align: center;">
 Our mailing address is:
-
 <div style="font-weight: bold;">
 MakeSoil<br />
 401 Broadway Suite 100 PMB 91115<br />
