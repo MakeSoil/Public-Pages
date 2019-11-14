@@ -1,5 +1,30 @@
 # MakeSoil News
 
+## October 2019  
+
+### Our first Soil Site in the Philippines appears
+</div>
+</br>
+
+The local 'Bokashi Pinoy Composting' movement downloaded our free Soil Maker Box designs (https://www.makesoil.org/the-soil-maker-box) and used them to build this beautiful box which is now the heart of a new community project: Tahanan Soil Site.
+
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Bokashi%20Pinoy%20Compost.jpg)
+
+
+</div>
+</br>
+</br>
+
+### MakeSoil Featured On The 'Who Knows?' Podcast
+</div>
+</br>
+
+MakeSoil founder Josh Whiton was interviewed for the 'Who Knows?' podcast, and it was a deep conversation!
+
+Give it a listen here: https://overcast.fm/+LLt-wuaBM
+</div>
+</br>
+
 ## September 2019  
 
 ### Beautiful New Flyer Design Released
