@@ -1,5 +1,29 @@
 # MakeSoil News
 
+## December 2019
+
+### Tech and Nature
+Ten years ago I was running a tech startup that was working to upgrade the world’s public transport systems. It was groundbreaking and impactful work, but came with many hours in front of a computer (and sometimes scrambling across the roof of a city bus, or crawling on my belly under the seats!).
+
+My remaining time was spent running a community garden (and my first soil site!), and a 1 acre urban farm in the center of my city that I'd started with some friends. So I was a transit-techie by day and had my hands in the dirt by evening and weekend... and in a sense, it was somewhat lonely. People around me were either into tech, or into nature, but rarely both.
+
+But how times have changed, and today we are seeing more and more people who can embrace technology’s power while understanding and respecting nature, ecosystems, and our one and only biosphere. 
+
+MakeSoil itself is an example of that integration. It uses just the right amount of technology to reconnect people with nature (and each other) in the physical world. For most, joining one of our 'soil sites' and watching their food waste turn into living Earth, is the first regenerative act they've ever participated in.
+
+When people dig into an active compost heap and feel the tremendous heat 60ºC/140ºF pouring off of it, they are astounded. They look for a power cord, "Is this thing plugged in?" And slowly come to grips with the fact that it is the rich biodiversity at the microscopic level that is producing the heat, and generating new living soil.
+
+In other words, we're using technology to scale a transformative experience, a gateway experience, into biodiversity and planetary regeneration. And for those who participate, that experience tends to forever shift their perception of technology, city-life, and so much more.
+
+At-scale, it also offer cities a decentralized solution to their waste problem, turning a municipal obligation of keeping organics out of landfills, into a regenerative activity for citizens — a new possibility most cities are still unaware of.
+
+With such a holistic and integrative mission, we at MakeSoil couldn't be more thrilled to be stewarding this initiative, which is ultimately powered by you. 
+
+Please join us today by telling a friend, starting a soil site, or finding a soil site near you.
+
+
+— _Josh Whiton_
+
 ## October 2019  
 
 ### Our first Soil Site in the Philippines appears
