@@ -1,6 +1,8 @@
 # Donate To MakeSoil
 
-**MakeSoil is a U.S. based 501(c)(3) Non-Profit Organization. This means that donations are tax-deductible in the US and many other countries.**
+**Every day, the MakeSoil.org movement is growing - addressing climate change, societal resilience, food system reform, raising ecological consciousness, and much more.**
+
+**And we are a non-profit, so we need your support. Donations are tax-deductible in the US and many other countries. Please give what you can.**
 
 ## Donate Via Card, PayPal Or Bank Transfer
 
