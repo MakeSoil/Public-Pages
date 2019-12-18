@@ -40,6 +40,8 @@ Products to manage food scraps or make soil at home.
   </iframe>
   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=0964425882&asins=0964425882&linkId=c598fab088ac5bf4b371677c6ddcd032&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
   </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=makesoil-20&marketplace=amazon&region=US&placement=0143038583&asins=0143038583&linkId=50a386a285c34fa8d5e75c7d9530bd4a&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+  </iframe>
 </div>
 
 ## Courses
