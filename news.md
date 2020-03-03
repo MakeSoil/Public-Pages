@@ -1,5 +1,13 @@
 # MakeSoil News
 
+## January 2020
+
+### MakeSoil founder Josh Whiton interviewed for 'GreenPlanet BluePlanet' Podcast
+
+Listen here: https://podcasts.apple.com/us/podcast/ep-153-makesoil-movement-to-regenerate-planet-josh/id1265643891?i=1000464722142&fbclid=IwAR3p5KHqWz4B7hJQMUMLdY0tE75YHR0VG8QfHoFJnsu0-rzwb6PTdG91gsY
+
+![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Ep.153-BANNER_JoshWhiton-MakeSoil.jpg)
+
 ## December 2019
 
 ### Tech and Nature
@@ -42,7 +50,6 @@ Please join us today by telling a friend, starting a soil site, or finding a soi
 The local 'Bokashi Pinoy Composting' movement downloaded our free Soil Maker Box designs (https://www.makesoil.org/the-soil-maker-box) and used them to build this beautiful box which is now the heart of a new community project: Tahanan Soil Site.
 
 ![MakeSoil Screenshot](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Bokashi%20Pinoy%20Compost.jpg)
-
 
 </div>
 </br>
