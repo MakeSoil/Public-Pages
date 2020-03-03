@@ -1,6 +1,6 @@
 # MakeSoil News
 
-## January 2020
+## February 2020
 
 ### MakeSoil founder Josh Whiton interviewed for 'GreenPlanet BluePlanet' Podcast
 
