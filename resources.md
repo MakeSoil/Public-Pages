@@ -6,13 +6,13 @@ Great for putting on poster-boards and anywhere else people might be looking for
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;">
 	<a style="margin:auto;" href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v1.pdf">
-		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v1.png" alt="Tear-Off Flyer 1" width="250">
+		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v1.png" alt="Tear-Off Flyer 1" width="250" />
 	</a>
 	<a style="margin:auto;" href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v2.pdf">
-		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v2.png" alt="Tear-Off Flyer 2" width="250">
+		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v2.png" alt="Tear-Off Flyer 2" width="250" />
 	</a>
 	<a style="margin:auto;" href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-tear-off-v3.pdf">
-		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v3.png" alt="Tear-Off Flyer 3" width="250">
+		<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-tear-off-v3.png" alt="Tear-Off Flyer 3" width="250" />
 	</a>
 </div>
 
@@ -20,14 +20,14 @@ Great for putting on poster-boards and anywhere else people might be looking for
 How can someone not make soil with you after you hand them this? You can print this at home to hand out to neighbors and friends, or even better for the trees and the environment, share it on Social Media!
 
 <a href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-flyer-v1.pdf">
-	<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-flyer-v1.png" alt="Make Soil With Me Flyer" width="400">
+	<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-flyer-v1.png" alt="Make Soil With Me Flyer" width="400" />
 </a>
 
 ## Cards
 Print-at-home cards are a great way to strike up conversations and get people interested in MakeSoil.
 
 <a href="https://raw.githubusercontent.com/MakeSoil/public-pages/master/files/ms-print-at-home-cards.pdf">
-	<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-print-at-home-cards.png" alt="Print-at-Home Cards" width="400">
+	<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-print-at-home-cards.png" alt="Print-at-Home Cards" width="400" />
 </a>
 
 ## Custom Soil Site Posters
