@@ -27,8 +27,9 @@
 Our mailing address is:
 <div style="font-weight: bold;">
 MakeSoil<br />
-401 Broadway Suite 100 PMB 91115<br />
-Tacoma, WA 98402
+PO Box 1307
+<br />
+Vancouver, WA 98666
 </div>
 </div>
 
