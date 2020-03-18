@@ -1,9 +1,6 @@
-# Where to Go From Here
+# Where to Go From Here: A Local-Global Transition Plan in the Time of the Virus
 
-A Local-Global Transition Plan in the Time of the Virus
-
-Where to Go From Here
-A Local-Global Transition Plan in the Time of the Virus
+## Introduction
 
 I wrote a post recently urging humanity to see the virus as an opportunity to change. It resonated widely and was shared many times, but didn’t offer a more clear path of how to proceed. This post is about how to organize ourselves toward meaningful action before the energy of that sentiment dissipates and the opportunity is missed.
 
@@ -35,7 +32,7 @@ It’s not that we’re stupid. It’s just that the Biosphere has so far been i
 
 Remember, it was only about 50 years ago that the first pictures of the whole Biosphere from space were even taken. And this situation of ours that it depicts, us riding on a living blue ball hanging in an inhospitable vacuum of space surrounded by dead planets, and all the implications of that, have yet to fully sink in.
 
-Accordingly, we as a people have failed to reign in the economy’s destructive tendencies. We have failed to transition the economy into something harmonious with the biosphere. We have lacked the collective will, the consciousness, the time, the attention, the discipline, the courage, the detachment, the awareness... to tame the economic juggernaut.
+Accordingly, we as a people have failed to rein in the economy’s destructive tendencies. We have failed to transition the economy into something harmonious with the biosphere. We have lacked the collective will, the consciousness, the time, the attention, the discipline, the courage, the detachment, the awareness... to tame the economic juggernaut.
 
 And now, the Virus.
 
@@ -107,7 +104,7 @@ Beyond that, that soil provides a home to countless microbes, the biodiversity o
 
 Why do it ourselves in our own neighborhoods? Because humanity must have the hands-on experience of regenerating the Biosphere directly. That’s what we get when we participate directly in making soil. We create new, living Earth, and from that moment on we see ourselves differently: no longer just a consumer, but a regenerator.
 
-As for how to effectively organize us around an activity that few people know how to do, a dash of technology here can really help. That’s what you’ll find at MakeSoil's website. Think of MakeSoil as an operating system for planetary regeneration. It’s still in its early stages, but right now it offers a basic way for everyone to begin organizing and effectively moving forward. You don’t have to do it alone, and you don’t have to know what you’re doing. Just go to MakeSoil and find a Soil Site near you.
+As for how to effectively organize us around an activity that few people know how to do, a dash of technology here can really help. That’s what you’ll find at MakeSoil.org - think of MakeSoil as an operating system for planetary regeneration. It’s still in its early stages, but right now it offers a basic way for everyone to begin organizing and effectively moving forward. You don’t have to do it alone, and you don’t have to know what you’re doing. Just go to MakeSoil.org and find a Soil Site near you.
 
 ## Step 3 — Use that soil to start millions of gardens of every size and shape, everywhere.
 
@@ -131,4 +128,4 @@ Once all of this is happening we will have done something very important. We wil
 
 Lastly, our symbiosis with the Biosphere can go far, far beyond this. No one really knows what’s possible when 8 billion creative and intelligent humans partner fully with the only living Biosphere in the known universe. But finding out together will be far more exciting than endlessly growing the economy ever was.
 
-Get started by registering at #MakeSoil right now. If there's no soil site near you, we'll let you know as soon as there is. And... you'll be just in time to participate in #PlantaSeedDay this Thursday, March 19th.
+Get started by registering at MakeSoil.org right now. If there's no soil site near you, we'll let you know as soon as there is.
