@@ -79,7 +79,7 @@ A new food system, citizen powered and decentralized is, therefore, the single g
 
 If you’re ready to get started, read on.
 
-Step 1 — Stop all organic matter from leaving our neighborhoods
+## Step 1 — Stop all organic matter from leaving our neighborhoods
 
 Organic matter means (food scraps, soiled paper, yard stuff). Pretty much anything that isn’t plastic, styrofoam, metal, or glass. Stuff that is essentially the remains of plants or animals, everything from banana peels and coffee grounds to used paper towels and coffee filters.
 
@@ -99,7 +99,7 @@ We must leave behind the box and bin culture, where stuff arrives in a box on ou
 
 So again, step one is that we stop needlessly making garbage and stop relying on programs to take away the waste that isn’t actually waste. Step one is keeping all the energy and nourishment stored in that organic matter from leaving our neighborhoods.
 
-Step 2 — Turn that organic matter into soil
+## Step 2 — Turn that organic matter into soil
 
 In Step 2 we turn all that stuff from Step 1 into soil. And we do it right in our neighborhoods. Why soil? Because it’s a way to store all that energy and nutrient in a stable, odorless form, ready and waiting to be turned into food.
 
@@ -109,7 +109,7 @@ Why do it ourselves in our own neighborhoods? Because humanity must have the han
 
 As for how to effectively organize us around an activity that few people know how to do, a dash of technology here can really help. That’s what you’ll find at MakeSoil's website. Think of MakeSoil as an operating system for planetary regeneration. It’s still in its early stages, but right now it offers a basic way for everyone to begin organizing and effectively moving forward. You don’t have to do it alone, and you don’t have to know what you’re doing. Just go to MakeSoil and find a Soil Site near you.
 
-Step 3 — Use that soil to start millions of gardens of every size and shape, everywhere.
+## Step 3 — Use that soil to start millions of gardens of every size and shape, everywhere.
 
 Right now there’s enough organic matter going to landfills that could instead be used to start several million new gardens — every single year.
 
@@ -121,7 +121,7 @@ It doesn't mean growing all of your food, but neither does it mean growing none 
 
 And remember, you won’t be doing it alone as part of some isolationist compound or apocalyptic future, you’re doing it alongside billions of other people in a friendly and distributed manner, specifically so we don’t end up with an isolationist society or apocalyptic future.
 
-Step 4 — Give, trade, buy and sell that food to each other
+## Step 4 — Give, trade, buy and sell that food to each other
 
 This is not about growing and selling enough food to quit your day-job; it’s about becoming one iota less dependent on that day-job for your complete survival. It’s about creating a resilient web of relationship with your neighbors. It’s about beginning to depend less on the abstract, uncontrollable economy and more on each other and on the Biosphere directly. It’s about getting that first refreshing taste of a more regenerative, less convoluted economy. Being in such a relationship with the Earth and each other adds to our safety and security in ways that money can’t.
 
