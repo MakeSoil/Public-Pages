@@ -1,5 +1,7 @@
 # Where to Go From Here: A Local-Global Transition Plan in the Time of the Virus
 
+_Written by MakeSoil founder Josh Whiton in March 2020_
+
 ## Introduction
 
 I wrote a post recently urging humanity to see the virus as an opportunity to change. It resonated widely and was shared many times, but didn’t offer a more clear path of how to proceed. This post is about how to organize ourselves toward meaningful action before the energy of that sentiment dissipates and the opportunity is missed.
@@ -129,3 +131,5 @@ Once all of this is happening we will have done something very important. We wil
 Lastly, our symbiosis with the Biosphere can go far, far beyond this. No one really knows what’s possible when 8 billion creative and intelligent humans partner fully with the only living Biosphere in the known universe. But finding out together will be far more exciting than endlessly growing the economy ever was.
 
 Get started by registering at MakeSoil.org right now. If there's no soil site near you, we'll let you know as soon as there is.
+
+_Written by MakeSoil founder Josh Whiton in March 2020_
