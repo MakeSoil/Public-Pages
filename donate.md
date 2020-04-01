@@ -1,8 +1,12 @@
-# Donate To MakeSoil
+# Please help us with a donation
 
-**Every day, the MakeSoil.org movement is growing - addressing climate change, societal resilience, food system reform, raising ecological consciousness, and much more.**
+**More than ever in this time of the virus, the world needs healthier people, more resilient communities, a more local food system, and an economy that works in harmony with nature.
 
-**And we are a non-profit, so we need your support. Donations are tax-deductible in the US and many other countries. Please give what you can.**
+Any amount is helpful. Nothing is too small, or too large.
+
+Whatever funds you give will go directly to scaling the global movement of communities making soil together, growing food, and establishing a new, more decentralized food system that is better for us and easier on our planet too.
+
+You can donate via card, PayPal, bank transfer, check or a donor-advised fund. Scroll down for these options.**
 
 ## Donate Via Card, PayPal Or Bank Transfer
 
