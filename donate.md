@@ -21,6 +21,15 @@ You can donate via card, PayPal, bank transfer, check or a donor-advised fund. S
 
 <IFrame src="/coinbase.html" />
 
+<div>
+  <a class="donate-with-crypto"
+     href="https://commerce.coinbase.com/checkout/baf9ce19-918b-4b47-ae0d-aec51091d202">
+    Donate with Crypto
+  </a>
+  <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
+  </script>
+</div>
+
 ## Donate Via Fidelity Charitable
 
 <IFrame src="/dafdirect.html" />
