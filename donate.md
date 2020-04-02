@@ -19,8 +19,6 @@ You can donate via card, PayPal, bank transfer, check or a donor-advised fund. S
 
 ## Donate With Crypto
 
-<IFrame src="/coinbase.html" />
-
 <div>
   <a class="donate-with-crypto"
      href="https://commerce.coinbase.com/checkout/baf9ce19-918b-4b47-ae0d-aec51091d202">
