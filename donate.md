@@ -2,9 +2,11 @@
 
 Any amount is helpful. Nothing is too small, or too large.
 
-More than ever in this time of the virus, the world needs _healthier_ people, more _resilient_ communities, a more _local_ food system, and an economy that works in _harmony_ with nature.
+Now more than ever, with the disruptions challenging humanity, the world needs _healthier_ people, more _resilient_ communities, a more _local_ food system, and an economy that works in _harmony_ with nature.
 
-Whatever funds you give will go directly to scaling the global movement of communities making soil together, growing food, and establishing a new decentralized food system that is better for us and easier on our planet too.
+MakeSoil is a _powerful_ way to achieve this, but we are in need of donations to maintain our efforts. Can you help? 
+
+Whatever you can give will go directly to scaling the global movement of communities making soil together, growing food, and establishing a new decentralized food system that is better for us and easier on our planet too.
 
 You can donate via card, PayPal, bank transfer, check or a donor-advised fund. Scroll down for these options.
 
