@@ -1,8 +1,8 @@
-# Please help us with a donation
-
-More than ever in this time of the virus, the world needs _healthier_ people, more _resilient_ communities, a more _local_ food system, and an economy that works in _harmony_ with nature.
+# Please support MakeSoil with a donation
 
 Any amount is helpful. Nothing is too small, or too large.
+
+More than ever in this time of the virus, the world needs _healthier_ people, more _resilient_ communities, a more _local_ food system, and an economy that works in _harmony_ with nature.
 
 Whatever funds you give will go directly to scaling the global movement of communities making soil together, growing food, and establishing a new decentralized food system that is better for us and easier on our planet too.
 
