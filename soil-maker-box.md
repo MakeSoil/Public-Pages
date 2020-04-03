@@ -26,10 +26,6 @@ If you don't find a Bin Maker near you in the list below, please search and ask 
 
 ## United States
 
-### Colorado
-#### Loveland
-* Matt - beeman1_loveland@yahoo.com
-
 ### New York
 #### McGraw
 * David - dhammon@yahoo.com
