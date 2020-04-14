@@ -36,4 +36,4 @@ Print-at-home cards are a great way to strike up conversations and get people in
 
 ## Custom Soil Site Posters
 
-Do you want a custom Soil Site Poster, complete with QR code, which people can use to learn more about your Soil Site? Go to your Soil Site ([or create one here](/host)) and you'll find the option on the left hand side of your Soil Site.
+Do you want a custom Soil Site Poster, complete with QR code, which people can use to learn more about your Soil Site? Go to your Soil Site ([or create one here](/host)), click the green Invite button on the right hand side and scroll down to the poster.
