@@ -26,7 +26,8 @@ If you don't find a Bin Maker near you in the list below, please search and ask 
 
 ## United States
 
-### Bay Area
+### California
+#### Bay Area
 * Cedric - cd127@gmx.de
 
 ### Texas
