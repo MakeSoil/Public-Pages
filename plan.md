@@ -116,7 +116,7 @@ To be clear, this step of reducing our dependence on the economy is not a politi
 
 The opportunity here is more foundational than swapping one economic or political system that humans have made for another. The opportunity here is to enter into a symbiotic relationship with the living Biosphere that made humans.
 
-## Reliance on the Economy -> Reliance on the Biosphere
+## Reliance on the <span style="text-decoration: line-through; text-decoration-thickness: 15%;">Economy</span> Biosphere
 
 The way to begin is with food, by which I mean, a shift in the food system. 
 
