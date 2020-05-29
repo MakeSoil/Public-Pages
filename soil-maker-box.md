@@ -1,4 +1,4 @@
-Building the Soil Maker Box takes a fair amount of time, skill and tools. So you might like to start with this simpler design featured in this video:
+Building the Soil Maker Box takes a fair amount of time, skill and tools. So before you get started, watch this short video on the Soil-Making Cylinder to see if it's more suitable for you:
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/0iw7Qjg0r6M?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
