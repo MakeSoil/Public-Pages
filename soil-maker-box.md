@@ -1,5 +1,7 @@
 # Soil Maker Box
 
+N.B. Building the Soil Maker Box takes a fair amount of time, skill and tools. So you might like to start with this simpler design featured in this video:
+
 We designed our own Soil Maker Box and  made the design freely-available (see links below).
 
 - Pest-proof
@@ -10,9 +12,7 @@ We designed our own Soil Maker Box and  made the design freely-available (see li
 
 ![Soil Maker Box image](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/SoilMakerBoxNC.png)
 
-If you'd like to have one, please send the design to a local woodworker or maker and ask them to build it for you. MakeSoil does not build or sell these ourselves. 
-
-And if you're a woodworker or maker, feel free to post the design on your website or social media pages. All we ask is that if you make any profits from our design, please make a donation to MakeSoil to show your appreciation.
+Build it yourself, have someone build it for you, or if you're a woodworker consider building it for other people, and even selling it. All we ask is that if you make any profits from our design, please make a donation to MakeSoil to show your appreciation.
 
 # Get the design!
 <ul>
