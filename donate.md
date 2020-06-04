@@ -1,5 +1,7 @@
 # Please support MakeSoil with a donation
 
+_MakeSoil is a 501(c)(3) Nonprofit Organization. Donations are tax-deductible for US taxpayers._
+
 Any amount is helpful. Nothing is too small, or too large.
 
 Now more than ever, with the disruptions challenging humanity, the world needs _healthier_ people, more _resilient_ communities, a more _local_ food system, and an economy that works in _harmony_ with nature.
