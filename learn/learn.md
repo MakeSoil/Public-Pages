@@ -16,15 +16,15 @@ People soon got the idea, and were glad to have a clear, simple and practical wa
 
 And now that they had direct access to good quality soil, it wasn't long before they all came together to create a beautiful community garden too (see video below), all starting from simple food scraps.
 
-<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
-<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/tAPM5X37tu0?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 Josh was himself amazed to watch all of this unfold, as he gradually began to fully realise the great potential of this simple yet profound act - of making soil together - to inspire people, to bring them together, and to repair our relationship with our planet, all at the same time:
 
 "I'm still in awe of the transformations I saw in people as they began to participate in the process and have that experience of making soil. It was unexpected and profound. Despite having been the CEO of a successful tech startup, building that compost bin and inviting people to use it, is perhaps the simplest thing I've ever done that had the greatest benefit."
 
 It's the simple desire to share this experience, that gave birth to MakeSoil.
+
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/tAPM5X37tu0?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # Why make soil?
 
@@ -170,7 +170,7 @@ If you have no pests, then you don’t strictly need any special equipment. You 
 
 ![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/new-bin.jpg)
 
-We have also designed our own ‘ultimate Soil Maker Box’ (the video below shows the premium version) which will cover all your bases. If you are interested in getting the 'everyman' version for an affordable price, please contact us.
+We have also designed our own ‘Soil Maker Box’ (the video below shows the premium version) which will cover all your bases. If you are interested in having the 'everyman' version for an affordable price, please visit our [Soil Maker Box page](https://www.makesoil.org/the-soil-maker-box/) to find out more.
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/CqC-7GKg0gw?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -240,7 +240,7 @@ Don’t keep waiting for the perfect moment when you will _finally_ be ready to 
 
 If you haven’t already, find somewhere to build your pile. This could be as simple as a mound of scraps that you cover with a makeshift ‘lid’ to protect the heap from the rain. However, depending what pests you have to guard against, you might need something more.
 
-To download our instruction guide on how to build the ultimate Soil Maker Box, click here: [https://www.makesoil.org/the-soil-maker-box] You can then choose to either build it yourself, or to get the help of a local woodworker.
+To explore some options, please visit our [Soil Maker Box page](https://www.makesoil.org/the-soil-maker-box/) to find out more.
 
 ## 3) Choose the right place for your Soil Maker Box
 
