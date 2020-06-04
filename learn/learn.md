@@ -1,8 +1,10 @@
 # What is MakeSoil?
 
-MakeSoil is an online platform powering a global movement to make soil together on a planet-saving scale. Redefining composting as making soil, Soil Makers can easily and safely post their Soil Sites to our online map, and invite their neighbors and friends to contribute their food and yard scraps. Anyone, anywhere in the world, can use MakeSoil to find Soil Makers near them or start a Soil Site themselves. Together, we can reduce food waste, restore nutrients to our food, capture carbon in the ground, and beautify our neighborhoods.
+MakeSoil is a nonprofit online platform that matches ‘Soil Makers’ (people who compost) with nearby ‘Soil Supporters’ (people who contribute scraps).
 
-MakeSoil is a Nonprofit Organization. We re-invest any surplus funds back into our mission.
+This gets local people working together with nature to reverse climate change, while also making the rich soil we need to grow healthy local food for everyone.
+
+MakeSoil is a 501(c)(3) Nonprofit Organization. We re-invest any surplus funds back into our mission.
 
 # How did MakeSoil start?
 
@@ -12,11 +14,11 @@ Josh was sure there was a more beautiful way to do things. So, one day, he found
 
 People soon got the idea, and were glad to have a clear, simple and practical way to do something good for the planet. And as Josh began to master the art of making soil, they were even more amazed to see how quickly all sorts of organic materials could be turned back into rich, living soil.
 
-![shelton community garden](https://www.makesoil.org/static/media/our-story-2.8051801c.jpg)
+And now that they had direct access to good quality soil, it wasn't long before they all came together to create a beautiful community garden too (see video below), all starting from simple food scraps.
 
-Shelton Community Garden in bloom. See the photo journey of how it came together [here](https://www.flickr.com/photos/subterfuge/sets/72157617245152488/with/4457873310/).
-
-And now that they had direct access to good quality soil, it wasn't long before they all came together to create a beautiful community garden too, all starting from simple food scraps.
+<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
+<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/tAPM5X37tu0?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Josh was himself amazed to watch all of this unfold, as he gradually began to fully realise the great potential of this simple yet profound act - of making soil together - to inspire people, to bring them together, and to repair our relationship with our planet, all at the same time:
 
