@@ -166,7 +166,7 @@ We recommend a set-up where materials can continuously be added, and where soil 
 
 This depends what pests you have to guard against.
 
-If you have no pests, then you don’t strictly need any special equipment. You could just mound up your scraps into a pile. However, you’ll need to keep your pile mounded, so you may soon find that some sort of container would be useful. With no pests, a simple contianer made from wooden pallets and some chicken wire is perfectly fine (see photo below). If you have raccoons, you might need a closed container that can only be opened by a human.
+If you have no pests, then you don’t strictly need any special equipment. You could just mound up your scraps into a pile. However, you’ll need to keep your pile mounded, so you may soon find that some sort of container would be useful. With no pests, a simple contianer made from wooden pallets and some chicken wire is perfectly fine. If you have raccoons, you might need a closed container that can only be opened by a human.
 
 ![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/new-bin.jpg)
 
