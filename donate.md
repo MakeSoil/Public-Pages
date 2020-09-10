@@ -11,7 +11,7 @@ MakeSoil is a _powerful_ way to achieve this, but we are in need of donations to
 ## Donate Via Card, PayPal Or Bank Transfer
 
 <div style="text-align: center;margin-top: 2rem;">
-  <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="785px" width="100%" style="max-width:425px; min-width:310px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
+  <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="800px" width="100%" style="max-width:425px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
   <br />
 </div>
 
