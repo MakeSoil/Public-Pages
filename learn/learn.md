@@ -48,15 +48,13 @@ Watching our food and yard scraps turn back into living soil (instead of just th
 
 We need to start regenerating the planet, rather than simply consuming it as a raw material. Our society produces an enormous amount of food waste. Currently, nearly all of it goes to landfills where it rots, releasing CO2 and methane — an even worse greenhouse gas. When instead we turn that food waste into soil, the carbon and nutrients go into the ground, capturing carbon, while producing the topsoil our food system depends on.
 
-# Why make soil, when I already have a municipal compost pick-up service?
+# How does MakeSoil compare with using a municipal (or commercial) composting pick-up service?
 
-Watching your food waste turn back into living soil completes an essential feedback loop which suddenly transforms your understanding and relationship with the environment. When somebody else takes away your food waste and deals with it for you out of sight, you miss out on this transformative experience that can only come through completing such feedback loops.
+Pick-up services can of course be a convenient option for many people, and MakeSoil loves to work with both municipalities and waste companies to support and supplement what they do. However, the MakeSoil approach is to create a decentralized network of Soil Sites where citizens' scraps are composted at the most local level possible, saving time, fuel and money while also building greater community resilience.
+
+Watching your food waste turn back into living soil also completes an essential feedback loop which suddenly transforms your understanding and relationship with the environment. When somebody else takes away your food waste and composts it for you out of sight, it's certainly better than those scraps being sent to landfill. However, you do miss out on the transformative experience that can only come through completing such feedback loops.
 
 We live today in a box and bin culture. We click a button on the internet, a box arrives on our doorstep, we play with it for a while or it breaks, and then we throw it in a bin and someone takes it away. This keeps us from understanding the system we live in as a whole. MakeSoil is founded on the insight that it’s only by witnessing and fully participating - from start to finish - in regenerative acts like soil making, that we can begin to truly recognize how our system works, and the role we play in this system as individuals.
-
-Turning your food waste into soil yourself in your backyard, or with your neighbors locally, is also more energy-efficient. Municipal pick-up services are industrial operations that use big trucks to haul the materials over to the nearest processing facility, where then yet more heavy machinery is used to turn the piles. And given that most of the food waste being picked up is, in terms of mass, actually water, this all uses up far more energy than dealing with your own food waste in your neighborhood.
-
-Finally, municipal pick-up programs are not free — citizens pay for them in taxes and fees. If instead we step into our role as Soil Makers and make soil together in our own neighborhoods, we can save that money and even generate income. We can take what is a municipal obligation, and turn it into home-based jobs for thousands of people.
 
 # What is a Soil Maker?
 
