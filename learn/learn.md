@@ -48,7 +48,7 @@ Watching our food and yard scraps turn back into living soil (instead of just th
 
 We need to start regenerating the planet, rather than simply consuming it as a raw material. Our society produces an enormous amount of food waste. Currently, nearly all of it goes to landfills where it rots, releasing CO2 and methane — an even worse greenhouse gas. When instead we turn that food waste into soil, the carbon and nutrients go into the ground, capturing carbon, while producing the topsoil our food system depends on.
 
-# How does MakeSoil compare with using a municipal (or commercial) composting pick-up service?
+# How does MakeSoil compare with using a composting pick-up service?
 
 Pick-up services can of course be a convenient option for many people, and MakeSoil loves to work with both municipalities and waste companies to support and supplement what they do. However, the MakeSoil approach is to create a decentralized network of Soil Sites where citizens' scraps are composted at the most local level possible, saving time, fuel and money while also building greater community resilience.
 
