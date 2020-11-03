@@ -4,11 +4,7 @@
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/1JJnRGuUxXM?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-MakeSoil is a nonprofit online platform that matches ‘Soil Makers’ (people who compost) with nearby ‘Soil Supporters’ (people who contribute scraps).
-
-This gets local people working together with nature to reverse climate change, while also making the rich soil we need to grow healthy local food for everyone.
-
-MakeSoil is a 501(c)(3) Nonprofit Organization. We re-invest any surplus funds back into our mission.
+MakeSoil is an online platform that matches ‘Soil Makers’ (people who compost) with nearby ‘Soil Supporters’ (people who contribute scraps). The platform also gives local citizens and municipalities all the tools they need to rapidly create their own decentralized network of citizen-run neighborhood composting hubs in their community - keeping organic waste out of the landfill, bringing down greenhouse gas emissions, saving taxpayers' money and, of course, making soil!  
 
 # How did MakeSoil start?
 
