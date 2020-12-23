@@ -21,7 +21,7 @@ Build it yourself, have someone build it for you, or if you're a woodworker cons
 # Get the design!
 <ul>
   <li><a href="https://docs.google.com/document/d/1o8ayV6HfW81whocVO45VTXVj04JhL7x7xU_PqTRg0is/edit?usp=sharing" target="_blank">Google Doc Guide</a></li>
-  <li><a href="https://drive.google.com/file/d/1p_UQAbEUt_omksB3pV5kMDb7WTXJHrTj/view?usp=sharing" target="_blank">PDF Guide</a></li>
+  <li><a href="https://drive.google.com/file/d/1B6LTijt7yUDPBjied0LtnaQojsq1c46i/view?usp=sharing" target="_blank">PDF Guide</a></li>
 </ul>
 
 ![Soil Maker Box CAD image](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-soil-maker-box.png)
