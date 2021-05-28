@@ -38,9 +38,9 @@ MakeSoil is a _powerful_ way to achieve this, but we are in need of donations to
 Our mailing address is:
 <div style="font-weight: bold;">
 MakeSoil<br />
-PO Box 1307
+401 Broadway Suite 100 PMB 91115
 <br />
-Vancouver, WA 98666
+Tacoma, WA 98402
 </div>
 </div>
 
