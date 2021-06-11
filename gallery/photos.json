@@ -54,5 +54,10 @@
     "src": "https://raw.githubusercontent.com/MakeSoil/public-pages/master/gallery/11.jpg",
     "width": 3,
     "height": 5
-  }
+  },
+      {
+    "src": "https://raw.githubusercontent.com/MakeSoil/public-pages/master/gallery/plate.jpeg",
+    "width": 4,
+    "height": 3
+    }
 ]
